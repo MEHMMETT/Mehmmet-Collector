@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RW96aDRwc2RwcXl5MWs5VTV0eWtNRkY1@83.166.250.6:50529#%3E%3EDR-Anv%20XX%20XX%20%F0%9F%87%B7%F0%9F%87%BA 🇷🇺
-vless://0011cd3b-a6b2-4131-a295-2b4efa178aea@83.147.255.201:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%3E%3EDR-Anv 🇷🇺
+vless://0011cd3b-a6b2-4131-a295-2b4efa178aea@83.147.255.201:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%3E%3EDR-Anv%20%F0%9F%87%B7%F0%9F%87%BA 🇷🇺
