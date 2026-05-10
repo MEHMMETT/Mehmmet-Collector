@@ -1,1 +1,1 @@
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%3E%3EDR-Anv 🇦🇱
+vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%3E%3EDR-Anv%20%F0%9F%87%A6%F0%9F%87%B1 🇦🇱
