@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@175.213.181.45:12121?type=ws&security=tls&path=/&sni=sni.111000.v6.army&fp=chrome#%3E%3EDR-Anv 🇰🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@175.213.181.45:12121?type=ws&security=tls&path=/&sni=sni.111000.v6.army&fp=chrome#%3E%3EDR-Anv%20%F0%9F%87%B0%F0%9F%87%B7 🇰🇷
