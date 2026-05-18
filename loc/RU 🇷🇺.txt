@@ -1,0 +1,2 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@72.56.235.141:8388#%3E%3EDR-Anv%20%F0%9F%87%B7%F0%9F%87%BA%20XX 🇷🇺
+vless://5b2fc182-a497-4fbe-aeb8-1841dae99022@72.56.247.198:443?security=reality&type=tcp&sni=eh.vk.com&fp=qq&flow=xtls-rprx-vision&pbk=FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M&encryption=none#%3E%3EDR-Anv 🇷🇺
