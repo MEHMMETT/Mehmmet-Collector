@@ -1,4 +1,5 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#%3E%3EDR-Anv 🇯🇵
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#%3E%3EDR-Anv 🇯🇵
-ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003?#%3E%3EDR-Anv%20%F0%9F%87%AF%F0%9F%87%B5%20XX%20XX%20XX 🇯🇵
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#%3E%3EDR-Anv%20%F0%9F%87%AF%F0%9F%87%B5 🇯🇵
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#%3E%3EDR-Anv%20%F0%9F%87%AF%F0%9F%87%B5 🇯🇵
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009#%3E%3EDR-Anv%20XX 🇯🇵
+vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%3E%3EDR-Anv%20XX%20XX%20XX%20XX%20XX%20XX 🇯🇵
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?path=%2Ffp&security=tls&encryption=none&insecure=1&host=2-ee1.pages.dev&type=ws&allowInsecure=1&sni=2-ee1.pages.dev#%3E%3EDR-Anv 🇯🇵
