@@ -1,1 +1,0 @@
-vless://53d7e486-bbdb-4123-900e-6bd861aa5337@85.234.73.39:8080?path=%2Fwe&security=none&encryption=none&host=play.google.com&type=ws#%3E%3EDR-Anv 🇦🇪
