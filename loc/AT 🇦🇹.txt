@@ -1,0 +1,1 @@
+vless://2ee2b77f-e4cd-4e5d-af22-f9d919eeadd5@130.49.219.126:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=at16.fastlanehosting.ru&type=tcp#%3E%3EDR-Anv 🇦🇹
