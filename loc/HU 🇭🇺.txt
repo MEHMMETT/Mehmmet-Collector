@@ -1,1 +1,0 @@
-vless://f76c2df5-4f10-45e0-a4f3-cdb23a559f51@bi.amooyam.com:443?encryption=none&security=tls&sni=bi.amooyam.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#%3E%3EDR-Anv 🇭🇺
