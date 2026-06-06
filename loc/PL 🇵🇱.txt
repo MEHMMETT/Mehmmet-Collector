@@ -1,4 +1,2 @@
-trojan://humanity@208.103.161.110:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%3E%3EDR-Anv%20XX%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1 🇵🇱
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443#%3E%3EDR-Anv%20%F0%9F%87%B5%F0%9F%87%B1 🇵🇱
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws#%3E%3EDR-Anv%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1 🇵🇱
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@beichuan.serv00.net:9815?encryption=none&host=beichuan.serv00.net&path=%2F&security=none&type=ws#%3E%3EDR-Anv 🇵🇱
+trojan://humanity@208.103.161.110:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%3E%3EDR-Anv%20XX%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1 🇵🇱
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443#%3E%3EDR-Anv%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1 🇵🇱
