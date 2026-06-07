@@ -1,1 +1,1 @@
-vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?path=%2Fstream&security=&encryption=none&host=onnevpn.dibaux.ir&type=ws#%3E%3EDR-Anv%20XX%20%F0%9F%87%B9%F0%9F%87%B7 🇹🇷
+vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?path=%2Fstream&security=&encryption=none&host=onnevpn.dibaux.ir&type=ws#%3E%3EDR-Anv%20XX%20%F0%9F%87%B9%F0%9F%87%B7%20%F0%9F%87%B9%F0%9F%87%B7 🇹🇷
