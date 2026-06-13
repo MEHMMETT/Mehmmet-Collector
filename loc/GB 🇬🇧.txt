@@ -1,3 +1,2 @@
 vless://0599ca07-cc1c-4e42-b637-6e286f43beb2@193.149.185.17:41510?encryption=none&path=%2F&security=none&type=ws#%3E%3EDR-Anv 🇬🇧
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?security=&encryption=none&headerType=none&type=tcp#%3E%3EDR-Anv 🇬🇧
 vless://eba407c9-7c1f-477e-977c-ba5ed81a763a@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=t1.tzteam.online&fp=firefox&type=ws&allowInsecure=0&sni=t1.tzteam.online#%3E%3EDR-Anv 🇬🇧
