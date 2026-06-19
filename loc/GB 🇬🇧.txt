@@ -1,2 +1,1 @@
-vless://66112771-584f-4617-8d3c-c0af067e838d@167.172.52.86:12849?security=&encryption=none&headerType=none&type=tcp#%3E%3EDR-Anv 🇬🇧
-vless://cb3291d7-6e00-42b0-a8da-4fcf67fe8469@209.97.179.66:29383?security=&encryption=none&headerType=none&type=tcp#%3E%3EDR-Anv 🇬🇧
+vless://a35cbb36-a069-46ec-aaaa-834f9f55f187@free1.ziroxcompany.ir:8080?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=free.ziroxcompany.ir&insecure=0&fp=chrome&type=grpc&serviceName=%2Fdashboard&allowInsecure=0&sni=free.ziroxcompany.ir#%3E%3EDR-Anv 🇬🇧
