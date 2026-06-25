@@ -1,3 +1,3 @@
 trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%3E%3EDR-Anv 🇬🇧
-vless://539dccf8-7ad6-4787-bb6c-c416b896ecaf@104.16.72.70:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=ssl.myblog.org.tr&fp=chrome&type=ws&allowInsecure=0&sni=ssl.myblog.org.tr#%3E%3EDR-Anv%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7 🇬🇧
+vless://539dccf8-7ad6-4787-bb6c-c416b896ecaf@104.16.72.70:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=ssl.myblog.org.tr&fp=chrome&type=ws&allowInsecure=0&sni=ssl.myblog.org.tr#%3E%3EDR-Anv%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7 🇬🇧
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=%2Fsea&security=tls&encryption=none&insecure=0&host=imblo.fastcitylab-byte.info&type=ws&allowInsecure=0&sni=imblo.fastcitylab-byte.info#%3E%3EDR-Anv 🇬🇧
