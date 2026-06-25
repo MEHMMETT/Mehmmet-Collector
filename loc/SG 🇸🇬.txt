@@ -1,4 +1,3 @@
-vless://1ba7a781-9669-4be5-b417-0df65a105ad1@178.128.49.154:39412?encryption=none&host=m.zoom.us&path=%2FFREE%2BBy%2BTharuwa%2B%280767597317%29&security=none&type=ws#%3E%3EDR-Anv%20%F0%9F%87%B8%F0%9F%87%AC 🇸🇬
+vless://1ba7a781-9669-4be5-b417-0df65a105ad1@178.128.49.154:39412?encryption=none&host=m.zoom.us&path=%2FFREE%2BBy%2BTharuwa%2B%280767597317%29&security=none&type=ws#%3E%3EDR-Anv%20%F0%9F%87%B8%F0%9F%87%AC%20%F0%9F%87%B8%F0%9F%87%AC 🇸🇬
 vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?path=%2Fshalana&security=tls&encryption=none&insecure=0&host=group.shalana.xyz&type=ws&allowInsecure=0&sni=group.shalana.xyz#%3E%3EDR-Anv 🇸🇬
-hy2://g00teh7gcl67irgs@167.172.93.124:443/?sni=167.172.93.124#%3E%3EDR-Anv 🇸🇬
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3EDR-Anv 🇸🇬
