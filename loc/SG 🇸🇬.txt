@@ -1,2 +1,1 @@
-vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?path=%2Fshalana&security=tls&encryption=none&insecure=0&host=group.shalana.xyz&type=ws&allowInsecure=0&sni=group.shalana.xyz#%3E%3EDR-Anv 🇸🇬
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3EDR-Anv%20%F0%9F%87%B8%F0%9F%87%AC%20%F0%9F%87%B8%F0%9F%87%AC 🇸🇬
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3EDR-Anv%20%F0%9F%87%B8%F0%9F%87%AC%20%F0%9F%87%B8%F0%9F%87%AC%20%F0%9F%87%B8%F0%9F%87%AC 🇸🇬
