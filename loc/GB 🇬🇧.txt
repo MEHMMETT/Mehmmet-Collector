@@ -1,2 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnV0JnbUtiOEFMMXVSSzBqWjQ0QW9PUGFDNWxWVE9IWm1p@91.108.254.104:13683#%3E%3EDR-Anv 🇬🇧
-trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443#%3E%3EDR-Anv%20XX%20XX%20XX%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7 🇬🇧
+trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443#%3E%3EDR-Anv%20XX%20XX%20XX%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AC%F0%9F%87%A7 🇬🇧
+vless://6f959878-d364-461d-be38-5e7b35bc81b3@45.130.125.206:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=packet-up&path=%2Fdrlimit%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2%2Chttp%2F1.1&host=UK.Mobailhay.ir&fp=chrome&type=xhttp&sni=Tehran.mobailhay.ir#%3E%3EDR-Anv 🇬🇧
