@@ -1,1 +1,0 @@
-vless://06462f62-5f9c-4632-9041-d35fedd0df97@fast.motorbazan.com:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#%3E%3EDR-Anv 🇨🇭
