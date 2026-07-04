@@ -1,3 +1,4 @@
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3EDR-Anv 🇵🇱
-trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.74.241:443/?type=tcp&security=tls#%3E%3EDR-Anv 🇵🇱
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.169.126.66:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%3E%3EDR-Anv%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1 🇵🇱
+trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.74.241:443#%3E%3EDR-Anv 🇵🇱
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.169.126.66:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%3E%3EDR-Anv%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1 🇵🇱
+vless://986907c0-34b9-428f-8810-954e91d926a1@104.16.174.118:443?mode=auto&path=%2Fpl&security=tls&encryption=none&insecure=0&host=rplcdn.ultran.ir&type=xhttp&allowInsecure=0&sni=rplcdn.ultran.ir#%3E%3EDR-Anv 🇵🇱
