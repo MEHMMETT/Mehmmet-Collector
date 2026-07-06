@@ -1,2 +1,1 @@
 vless://3f298aca-2412-49ac-9f20-235f0e448d31@SWITZERLANDSCLOUDNIG.iranlast.com:7009?security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=qq&type=tcp&sni=yahoo.com#%3E%3EDR-Anv 🇨🇭
-vless://5c466483-4d58-451c-ae3e-c746c724f49f@fardad-ch.lorluma.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#%3E%3EDR-Anv 🇨🇭
