@@ -1,0 +1,1 @@
+vless://8cc4e5fa-943c-4bd7-93f1-02309c0a6b96@fl.purchasemarketing.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3EDR-Anv 🇨🇭
