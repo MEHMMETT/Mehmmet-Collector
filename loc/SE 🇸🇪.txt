@@ -1,1 +1,1 @@
-vless://3bdb8c70-da05-483a-aa56-0e252c767f16@143.14.22.32:443?sni=cache-5673.atlanta-games.com&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#%3E%3EDR-Anv 🇸🇪
+vless://3bdb8c70-da05-483a-aa56-0e252c767f16@143.14.22.32:443?sni=cache-5673.atlanta-games.com&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#%3E%3EDR-Anv%20%F0%9F%87%B8%F0%9F%87%AA 🇸🇪
