@@ -1,1 +1,1 @@
-vless://8cc4e5fa-943c-4bd7-93f1-02309c0a6b96@fl.purchasemarketing.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3EDR-Anv 🇨🇭
+vless://57c77d07-bec3-4bf7-9b72-70ece40450f6@switzen.topupaxme.icu:9443?encryption=none&fp=qq&path=%2Fws&security=tls&sni=switzen.topupaxme.icu&type=ws#%3E%3EDR-Anv 🇨🇭
