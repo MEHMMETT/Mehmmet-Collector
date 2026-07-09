@@ -1,4 +1,3 @@
+trojan://PI36027154@upright-hamster.rooster465.autos:443?allowInsecure=1#%3E%3EDR-Anv 🇵🇱
 trojan://XG59623478@included-hedgehog.rooster465.autos:443?allowInsecure=1#%3E%3EDR-Anv 🇵🇱
-trojan://humanity@45.130.125.2:443?host=Www.cReaTIOnLONG.OrG&path=%2Fassignment&sni=Www.cReaTIOnLONG.OrG&type=ws#%3E%3EDR-Anv%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20XX%20XX%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1 🇵🇱
-trojan://humanity@188.114.98.0:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3EDR-Anv 🇵🇱
 trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3EDR-Anv 🇵🇱
