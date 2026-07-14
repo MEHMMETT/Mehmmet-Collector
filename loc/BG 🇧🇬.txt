@@ -1,1 +1,1 @@
-vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3EDR-Anv%20%F0%9F%87%A7%F0%9F%87%AC 🇧🇬
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3EDR-Anv%20%F0%9F%87%A7%F0%9F%87%AC%20%F0%9F%87%A7%F0%9F%87%AC 🇧🇬
