@@ -1,1 +1,1 @@
-vless://48c6e7a4-423b-4bad-b4a1-18527abc38cb@176.123.165.127:12672?encryption=none&security=none&type=tcp#%3E%3EDR-Anv 🇷🇺
+ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg@46.17.40.13:20111#%3E%3EDR-Anv 🇷🇺
