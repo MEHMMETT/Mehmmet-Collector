@@ -1,6 +1,7 @@
-trojan://IQ68037294@amazed-burro.rooster465.autos:443?allowInsecure=1#%3E%3EDR-Anv%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%AF%F0%9F%87%B5 🇯🇵
-trojan://IQ68037294@enhanced-dassie.rooster465.autos:443?allowInsecure=0&sni=enhanced-dassie.rooster465.autos#%3E%3EDR-Anv%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%AF%F0%9F%87%B5 🇯🇵
-trojan://IQ68037294@literate-grizzly.rooster465.autos:443?allowInsecure=1&sni=literate-grizzly.rooster465.autos#%3E%3EDR-Anv 🇯🇵
-trojan://IQ68037294@major-duckling.rooster465.autos:443?allowInsecure=0#%3E%3EDR-Anv%20%F0%9F%87%AF%F0%9F%87%B5 🇯🇵
-trojan://IQ68037294@novel-bat.rooster465.autos:443?allowInsecure=0#%3E%3EDR-Anv%20%F0%9F%87%AF%F0%9F%87%B5 🇯🇵
+trojan://IQ68037294@amazed-burro.rooster465.autos:443?allowInsecure=1#%3E%3EDR-Anv%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%AF%F0%9F%87%B5 🇯🇵
+trojan://IQ68037294@enhanced-dassie.rooster465.autos:443?allowInsecure=0&sni=enhanced-dassie.rooster465.autos#%3E%3EDR-Anv%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%AF%F0%9F%87%B5 🇯🇵
+trojan://IQ68037294@literate-grizzly.rooster465.autos:443?allowInsecure=1&sni=literate-grizzly.rooster465.autos#%3E%3EDR-Anv%20%F0%9F%87%AF%F0%9F%87%B5 🇯🇵
+trojan://IQ68037294@major-duckling.rooster465.autos:443?allowInsecure=0#%3E%3EDR-Anv%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%AF%F0%9F%87%B5 🇯🇵
+trojan://IQ68037294@novel-bat.rooster465.autos:443?allowInsecure=0#%3E%3EDR-Anv%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%AF%F0%9F%87%B5 🇯🇵
+trojan://IQ68037294@square-anchovy.rooster465.autos:443?allowInsecure=0&sni=square-anchovy.rooster465.autos#%3E%3EDR-Anv 🇯🇵
 trojan://IQ68037294@sweeping-parakeet.rooster465.autos:443?allowInsecure=0#%3E%3EDR-Anv 🇯🇵
