@@ -1,2 +1,0 @@
-vless://99680bf2-09a9-4bf8-8468-ff178c981a5a@kovirabot3.kovira2.ir:13424?path=%2F&security=&encryption=none&host=chatgpt.com&type=ws#%3E%3EDR-Anv 🇫🇮
-vless://94878fe1-5e8b-4676-9ee0-a90267a596e5@144.31.27.179:443?security=reality&encryption=none&pbk=8jwT95mGT7dW1VkMVt8vtwbWLgHN39tnhnt6PN1FTmU&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=b08c5eb124a5877e#%3E%3EDR-Anv 🇫🇮
