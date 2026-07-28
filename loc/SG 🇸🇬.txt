@@ -1,6 +1,5 @@
-trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%201
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%202
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%203
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.110.73:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%204
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%205
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%206
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%201
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%202
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.110.73:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%203
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%204
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%205
