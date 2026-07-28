@@ -1,0 +1,1 @@
+vless://fc64e874-656e-402e-a303-e0d161f907fb@it55.bearbeer.digital:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&security=reality&sni=it55.bearbeer.digital&type=tcp#%3E%3EDR-Anv 🇮🇹
