@@ -1,0 +1,2 @@
+vless://0691b704-7742-4248-8787-e72b98ec8c0c@104.17.19.159:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=nova-comet-core-8e95.nova-58d622.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=nova…</span>»</div#Dr-Anv%20%F0%9F%87%BA%F0%9F%87%B8%201
+vless://beca67c2-e0a8-43fe-aaff-fecc842de3d9@ipcf.prx11game.ir:443?path=%2Fprx11&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=mlkem768x25519plus.native.0rtt.ZYNiy9qf0MbtAc…</div#Dr-Anv%20%F0%9F%87%BA%F0%9F%87%B8%202
