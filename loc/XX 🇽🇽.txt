@@ -1,0 +1,1 @@
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Dr-Anv%20%F0%9F%87%BD%F0%9F%87%BD%201
