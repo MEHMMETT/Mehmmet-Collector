@@ -1,1 +1,2 @@
-vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@turkey.alfather.ir:2087?path=%2F&security=&encryption=none&type=xhttp#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%201
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@158.94.216.196:2056?path=%2Fwarp&security=&encryption=none&type=ws#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%201
+vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@turkey.alfather.ir:2087?path=%2F&security=&encryption=none&type=xhttp#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%202
