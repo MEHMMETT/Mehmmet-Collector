@@ -1,1 +1,2 @@
-hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@92.118.205.238:8443/?sni=grape-power-pl.ddnsguru.com#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%201
+vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@82.40.62.103:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%201
+hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@92.118.205.238:8443/?sni=grape-power-pl.ddnsguru.com#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%202
