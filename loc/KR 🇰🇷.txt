@@ -1,5 +1,3 @@
-trojan://ND91608427@definite-sturgeon.rooster465.autos:443?allowInsecure=1&sni=definite-sturgeon.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%201
-trojan://ND91608427@devoted-heron.rooster465.autos:443?allowInsecure=1&sni=devoted-heron.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%202
 trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%201
 trojan://ND91608427@definite-malamute.rooster465.autos:443?allowInsecure=1&sni=definite-malamute.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%202
 trojan://ND91608427@communal-sunbird.rooster465.autos:443?allowInsecure=1&sni=communal-sunbird.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%203
@@ -8,16 +6,9 @@ trojan://ND91608427@humorous-malamute.rooster465.autos:443?allowInsecure=1&sni=h
 trojan://ND91608427@distinct-llama.rooster465.autos:443?allowInsecure=1&sni=distinct-llama.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%206
 trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%207
 trojan://ND91608427@main-whippet.rooster465.autos:443?allowInsecure=1&sni=main-whippet.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%208
-trojan://ND91608427@real-werewolf.rooster465.autos:443?allowInsecure=1&sni=real-werewolf.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%203
-trojan://ND91608427@stunning-mite.rooster465.autos:443?allowInsecure=1&sni=stunning-mite.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%204
-trojan://ND91608427@sure-humpback.rooster465.autos:443?allowInsecure=1&sni=sure-humpback.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%205
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%209
 trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=1&sni=pure-ram.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2010
-trojan://ND91608427@upright-impala.rooster465.autos:443?allowInsecure=1&sni=upright-impala.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%206
 trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2011
 trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2012
 trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2013
-trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?sni=www.nintendogames.net#Dr-Anv%20%F0%9F%87%AD%F0%9F%87%B0%201
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#Dr-Anv%20%F0%9F%87%BA%F0%9F%87%B8%201
-trojan://humanity@104.16.174.121:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%A6%201
-trojan://QV31589740@great-krill.rooster465.autos:443?allowInsecure=0#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%201
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2014

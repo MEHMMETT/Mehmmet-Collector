@@ -1,3 +1,2 @@
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=%2Fvless%2F&security=none&type=ws#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%201
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443/?sni=grape-turbo-fr.roxa.org#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%202
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443/?sni=grape-turbo-fr.roxa.org#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%203
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443/?sni=grape-turbo-fr.roxa.org#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%201
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443/?sni=grape-turbo-fr.roxa.org#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%202
