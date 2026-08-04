@@ -1,1 +1,2 @@
-hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447/?sni=devideo.h2corp.org#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=%2Fv1&security=none&encryption=none&type=ws#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
+hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447/?sni=devideo.h2corp.org#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
