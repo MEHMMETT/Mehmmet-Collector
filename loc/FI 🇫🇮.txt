@@ -1,9 +1,4 @@
-vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
-vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.63.51:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.63.51:1234?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%203
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.51.180:1234?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%204
-vless://9f323699-9f2b-4697-add2-46a6fd1217a9@7.bmi.ir.varzesh3.com.de:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&host=play.google.com&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e915#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%205
-vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%206
-vless://c85a6219-5105-4786-bfb4-92f57f8c32e0@mahdipok.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%207
-vless://ce267d40-7928-4c40-91ce-3537d340d168@7.bmi.ir.varzesh3.com.de:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&host=play.google.com&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e915#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%208
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443/?sni=fi-one.quiet-rogue.site#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%209
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
+vless://509c0aa6-f98b-4f57-b73c-c707129f556e@iran-tehran.co.uk:443?mode=auto&path=%2F%3Fhopo&security=tls&alpn=h2%2Ch3&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=iran-tehran.co.uk&fp=chrome&type=xhttp&allowInsecure=0&sni=iran-tehran.co.uk#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
+vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.mytopmedia.net:200?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%203
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443/?sni=fi-one.quiet-rogue.site#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%204
