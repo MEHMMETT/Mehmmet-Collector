@@ -1,3 +1,2 @@
-vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.mytopmedia.net:200?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
-vless://cd3d0650-a767-47f2-9b1a-dedc1aceafc9@mahdipok.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443/?sni=fi-one.quiet-rogue.site#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%203
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443/?sni=fi-one.quiet-rogue.site#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
