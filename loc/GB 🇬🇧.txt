@@ -1,3 +1,5 @@
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%201
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%202
-vless://d8b42cd5-a149-4356-9e61-000000000000@217.79.125.105:2550?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%203
+vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@217.163.76.118:2086?encryption=none&host=xvh.andishehparenting.com&mode=auto&path=%2F&security=none&type=xhttp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%203
+vless://d566d849-ab28-4695-b01f-dcd284b67f5c@91.193.58.166:80?path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=dry-frog-8793.454-dc4.workers.dev&type=ws#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%204
+vless://d8b42cd5-a149-4356-9e61-000000000000@217.79.125.105:2550?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%205
