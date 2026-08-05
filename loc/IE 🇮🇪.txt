@@ -1,4 +1,6 @@
-trojan://ND91608427@54.170.212.206:443?fp=chrome&sni=skilled-lioness.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%201
-trojan://ND91608427@skilled-lioness.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%202
-trojan://UO36402987@warm-bass.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%203
-trojan://UO36402987@definite-ladybird.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%204
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@20.123.9.48:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZmZBS1J0azh3Smk4ZkZ1@104.46.88.136:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%202
+trojan://ND91608427@54.170.212.206:443?fp=chrome&sni=skilled-lioness.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%203
+trojan://ND91608427@skilled-lioness.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%204
+trojan://UO36402987@definite-ladybird.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%205
+trojan://UO36402987@warm-bass.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%206
