@@ -1,1 +1,2 @@
-hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444/?insecure=1&sni=185.236.22.119#Dr-Anv%20%F0%9F%87%B1%F0%9F%87%BB%201
+vless://59b2ff61-808d-4dcc-b74a-fa283ff82c42@46.8.237.5:2084/?type=grpc&encryption=none&flow=&serviceName=grpc#Dr-Anv%20%F0%9F%87%B1%F0%9F%87%BB%201
+hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444/?insecure=1&sni=185.236.22.119#Dr-Anv%20%F0%9F%87%B1%F0%9F%87%BB%202
