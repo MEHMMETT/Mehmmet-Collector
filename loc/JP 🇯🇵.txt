@@ -2,6 +2,6 @@ trojan://ND91608427@definite-sturgeon.rooster465.autos:443?allowInsecure=1&sni=d
 trojan://ND91608427@devoted-heron.rooster465.autos:443?allowInsecure=1&sni=devoted-heron.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%202
 trojan://ND91608427@real-werewolf.rooster465.autos:443?allowInsecure=1&sni=real-werewolf.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%203
 trojan://ND91608427@stunning-mite.rooster465.autos:443?allowInsecure=1&sni=stunning-mite.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%204
-trojan://ND91608427@sure-humpback.rooster465.autos:443?allowInsecure=1&sni=sure-humpback.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%205
-trojan://ND91608427@upright-impala.rooster465.autos:443?allowInsecure=1&sni=upright-impala.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%206
+trojan://ND91608427@upright-impala.rooster465.autos:443?allowInsecure=1&sni=upright-impala.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%205
+trojan://ND91608427@sure-humpback.rooster465.autos:443?allowInsecure=1&sni=sure-humpback.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%206
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000?#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%207
