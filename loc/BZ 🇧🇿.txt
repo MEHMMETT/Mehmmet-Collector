@@ -1,2 +1,0 @@
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@45.131.6.248:2087?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BF%201
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@45.131.6.248:2053?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BF%202
