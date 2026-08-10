@@ -1,10 +1,3 @@
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NC81blNmYzMyVmR1MEZuTFZ1V1g1bWYvU0l6U3lacEJCU2xxUHZKUGp6ND06MlE0blNwT0JWSG5VbE5rWE5IWkJxN3JMZDhud0dsV2I0WGQ1WEYvSm9iND0@65.109.208.236:11957#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NC81blNmYzMyVmR1MEZuTFZ1V1g1bWYvU0l6U3lacEJCU2xxUHZKUGp6ND06azJHbzNRNmROK2ZGT01kUHVDS2JQaG5tZXovMm5pSkNSQXBkcnJWWXV3cz0@65.109.208.236:11957#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%203
-vless://4ae81411-9337-4cac-a612-f5b1650c7627@65.109.208.236:36179?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%204
-vless://832e0199-9614-4d74-a7ba-1dca5453dab5@204.168.196.173:6985?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%205
-vless://8787dd0a-095a-414e-804f-a7d16a1ae166@138.124.244.77:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=fi1.hys.braidx.tech&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%206
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@141.227.170.192:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=fi.sellflow.org&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%207
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@141.227.170.14:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%208
-vless://c896406b-ccc4-4c37-8b8c-15964f32a9a2@65.109.208.236:36179?security=&encryption=none&headerType=&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%209
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443/?sni=fi-one.quiet-rogue.site#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%2010
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
+vless://832e0199-9614-4d74-a7ba-1dca5453dab5@204.168.196.173:6985?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
+vless://8787dd0a-095a-414e-804f-a7d16a1ae166@138.124.244.77:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=fi1.hys.braidx.tech&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%203

@@ -1,0 +1,1 @@
+vless://66ddcfaf-a9f0-4506-e052-4844d314402a@i3.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#Dr-Anv%20%F0%9F%87%BD%F0%9F%87%BD%201
