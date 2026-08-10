@@ -1,5 +1,6 @@
-ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@54.37.233.40:34045#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%201
-trojan://ND91608427@202.78.163.148:443?allowInsecure=1&fp=chrome&sni=discrete-basilisk.rooster465.autos#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%202
-trojan://ND91608427@202.78.163.248:443?fp=chrome&sni=relaxed-gull.rooster465.autos#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
-trojan://ND91608427@discrete-basilisk.rooster465.autos:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
-trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%205
+trojan://ND91608427@202.78.163.148:443?allowInsecure=1&fp=chrome&sni=discrete-basilisk.rooster465.autos#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%201
+trojan://ND91608427@202.78.163.248:443?fp=chrome&sni=relaxed-gull.rooster465.autos#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%202
+trojan://ND91608427@discrete-basilisk.rooster465.autos:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
+trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
+vless://c26a059d-e324-4c93-912f-443ddec99643@byocsv48182d.dxdx3.com:15744?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%205
+vless://c5c55441-6b1d-4a44-aa35-da5a015e7df9@193.247.82.92:443?encryption=none&fp=chrome&mode=auto&security=tls&sni=pla.tunnelguard.ru&type=xhttp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%206
