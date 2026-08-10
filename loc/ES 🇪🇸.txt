@@ -1,1 +1,1 @@
-vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?encryption=none&fp=&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%201
+vless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@170.168.97.7:443?mode=auto&security=reality&encryption=none&pbk=jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%201

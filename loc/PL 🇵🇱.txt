@@ -3,4 +3,3 @@ trojan://ND91608427@202.78.163.148:443?allowInsecure=1&fp=chrome&sni=discrete-ba
 trojan://ND91608427@202.78.163.248:443?fp=chrome&sni=relaxed-gull.rooster465.autos#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%205
-vless://c26a059d-e324-4c93-912f-443ddec99643@byocsv48182d.dxdx3.com:15744?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%206

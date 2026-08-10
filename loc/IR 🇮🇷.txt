@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNUHMrcHVDdTdMWFBxSVRDSml0bXQ0Tk9CbG5vc3pSR3JwdlVXdHRncU93PQ@e1.cover20.ir:51570?type=tcp#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovVkVJazdvT0hnWWZYMDlibzE2NG53Y1IvUlo2WXcyQ0xRKzdnS0NCVktrPQ@e1.cover20.ir:51570?type=tcp#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%201
 trojan://humanity@2.144.21.150:2000?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%202
