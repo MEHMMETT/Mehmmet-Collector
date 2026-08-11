@@ -1,0 +1,1 @@
+vless://11b7e901-e970-4491-9c7d-13c153e39e5b@177.3.213.230:5443?sni=get.wlrus.cfd&fp=edge&security=tls#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%B7%201
