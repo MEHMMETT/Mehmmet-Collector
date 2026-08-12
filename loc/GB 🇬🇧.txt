@@ -1,9 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@194.164.92.198:1234#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%201
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%202
-vless://645710cd-317d-420b-bb07-db6620cc65d0@213.193.255.206:443?security=reality&encryption=none&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=uk.cdn.cachefleet.com#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%203
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=%2Fvless%2F&security=none&type=ws#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%204
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.58.217:2053?allowInsecure=1&encryption=none&host=vlso200.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&security=tls&sni=vlso200.1d.mom&type=ws#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%205
-vless://SoonTeam@191.215.37.90:443?security=none&encryption=none&headerType=none&type=tcp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%206
-vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%207
-vless://ae1c12b0-df98-5f76-9adc-bd3380a3dbbd@191.215.37.90:443?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%208
-vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkRyLUFudiBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgOSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%201
+vless://60ba3369-9a78-40fe-98c3-233a6f107043@143.246.182.7:443?mode=auto&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-one%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=uk7.jailever.org&fp=qq&type=xhttp&allowInsecure=0&sni=uk7.jailever.org#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%202
+vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=%2Fvless%2F&security=none&type=ws#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%203
+vless://SoonTeam@191.215.37.90:443?security=none&encryption=none&headerType=none&type=tcp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%204
+vless://ae1c12b0-df98-5f76-9adc-bd3380a3dbbd@191.215.37.90:443?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%205
+vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%206
+vless://e83af88a-a884-48ba-b462-a1edccff15e7@50.7.197.2:8443?path=%2Fapi%2Fconnect&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=apkav-6.bosx.net#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%207
+vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkRyLUFudiBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
