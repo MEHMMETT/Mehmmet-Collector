@@ -1,4 +1,5 @@
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%201
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.110.73:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%202
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%203
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%204
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%201
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%202
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.110.73:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%203
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%204
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%205
