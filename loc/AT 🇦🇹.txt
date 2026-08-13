@@ -1,1 +1,2 @@
-vless://000f16e8-cc68-4951-b336-acd81996efde@45.155.71.170:50443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&security=reality&sni=www.icloud.com&type=tcp#Dr-Anv%20%F0%9F%87%A6%F0%9F%87%B9%201
+vless://8f127368-8f47-4989-ec81-60c32953856f@185.126.236.181:8880?path=%2F&security=none&encryption=none&host=www.icloud.com&type=ws#Dr-Anv%20%F0%9F%87%A6%F0%9F%87%B9%201
+vless://eab81857-a729-4c61-c8e9-bd3b46608161@185.126.236.181:80?security=none&encryption=none&host=www.icloud.com&headerType=http&type=tcp#Dr-Anv%20%F0%9F%87%A6%F0%9F%87%B9%202
