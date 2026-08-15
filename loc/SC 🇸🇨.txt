@@ -1,2 +1,0 @@
-trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%A8%201
-trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%A8%202
