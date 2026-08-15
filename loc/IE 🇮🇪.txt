@@ -1,8 +1,8 @@
 trojan://AE62539071@108.130.137.102:443?fp=chrome&sni=worthy-labrador.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%201
 trojan://AE62539071@18.201.28.146:443?fp=chrome&sni=helped-haddock.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%202
 trojan://AE62539071@18.201.47.180:443?fp=chrome&sni=healthy-panda.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%203
-trojan://AE62539071@54.170.38.205:443?fp=chrome&sni=unbiased-garfish.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%204
-trojan://AE62539071@54.74.159.195:443?fp=chrome&sni=kind-stork.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%205
+trojan://AE62539071@54.74.159.195:443?fp=chrome&sni=kind-stork.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%204
+trojan://AE62539071@54.170.38.205:443?fp=chrome&sni=unbiased-garfish.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%205
 trojan://AE62539071@54.74.210.220:443?fp=chrome&sni=funny-hen.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%206
 trojan://AE62539071@healthy-panda.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%207
 trojan://AE62539071@funny-hen.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%208
@@ -13,5 +13,6 @@ trojan://AE62539071@worthy-labrador.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AE%F
 trojan://FH72359861@3.253.78.205:443?allowInsecure=0&sni=balanced-heron.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%2013
 trojan://FH72359861@balanced-heron.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%2014
 trojan://FH72359861@darling-mongrel.rooster465.autos:443?allowInsecure=1&sni=darling-mongrel.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%2015
-trojan://UO36402987@34.251.228.118:443?fp=chrome&sni=definite-ladybird.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%2016
-trojan://UO36402987@definite-ladybird.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%2017
+trojan://FH72359861@summary-firefly.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%2016
+trojan://UO36402987@34.251.228.118:443?fp=chrome&sni=definite-ladybird.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%2017
+trojan://UO36402987@definite-ladybird.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%2018
