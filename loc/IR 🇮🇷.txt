@@ -1,3 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYQWpkcmJJSUFOSzRtdlQwcjJ1S0xjR0M5Wk5TeHIyR3RZNVg3U1RHL2pJPQ@e1.cover20.ir:51570?type=tcp#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%201
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%202
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVzM4MnozUGNIdHB6Mk8ycXJFSlpGTjFBcFA5enZuZ1VIdUJ0a3BwdGIwPQ@e1.cover20.ir:51570?type=tcp#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%201
+vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%202
+vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%203
