@@ -1,7 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl134.vpnbook.com:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl134.vpnbook.com:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%205
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%206
 trojan://AE62539071@enough-basilisk.rooster465.autos:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%207
@@ -16,10 +16,8 @@ trojan://ND91608427@202.78.163.148:443?allowInsecure=1&fp=chrome&sni=discrete-ba
 trojan://ND91608427@202.78.163.248:443?fp=chrome&sni=relaxed-gull.rooster465.autos#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2016
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2017
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2018
-vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@146.59.19.208:2053?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2019
-vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@217.182.79.55:443?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2020
-vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@51.68.130.118:443?encryption=none&fp=chrome&host=kjgdksgghre466.pages.dev&path=%2F&security=tls&sni=kjgdksgghre466.pages.dev&type=ws#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2021
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:8443?encryption=none&fp=&host=wikihow.com&mode=auto&path=%2F&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&security=reality&sni=wikihow.com&type=xhttp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2022
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2023
-vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.103:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&fp=chrome&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2024
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2025
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:8443?encryption=none&fp=&host=wikihow.com&mode=auto&path=%2F&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&security=reality&sni=wikihow.com&type=xhttp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2019
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2020
+vless://c7e9c591-2764-423a-afca-efbd010fd396@145.239.85.117:2053?encryption=none&fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2021
+vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.133:2053?encryption=none&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2022
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2023
