@@ -23,6 +23,7 @@ trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=selec
 trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2023
 trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2024
 trojan://PQ05174892@15.164.227.68:443?allowInsecure=0&sni=united-grouse.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2025
-trojan://PQ05174892@rare-lion.rooster465.autos:443?allowInsecure=0&sni=rare-lion.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2026
-trojan://PQ05174892@precious-stag.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2027
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2028
+trojan://PQ05174892@awake-redbird.rooster465.autos:443?allowInsecure=1&sni=awake-redbird.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2026
+trojan://PQ05174892@rare-lion.rooster465.autos:443?allowInsecure=0&sni=rare-lion.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2027
+trojan://PQ05174892@precious-stag.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2028
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2029

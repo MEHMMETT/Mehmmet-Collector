@@ -1,2 +1,1 @@
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?sni=russiapower.accesscam.org#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%AA%201
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&security=none&serviceName=grpc&type=grpc#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%AA%202
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&security=none&serviceName=grpc&type=grpc#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%AA%201
