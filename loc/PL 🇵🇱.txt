@@ -1,7 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl134.vpnbook.com:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl134.vpnbook.com:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%205
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%206
 trojan://AE62539071@enough-basilisk.rooster465.autos:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%207
@@ -9,9 +9,9 @@ trojan://AE62539071@game-firefly.rooster465.autos:443#Dr-Anv%20%F0%9F%87%B5%F0%9
 trojan://AE62539071@relative-locust.rooster465.autos:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%209
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2010
 trojan://FH72359861@202.78.163.156:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=primary-leech.rooster465.autos#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2011
-trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2012
-trojan://FH72359861@optimal-urchin.rooster465.autos:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2013
-trojan://FH72359861@primary-leech.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2014
+trojan://FH72359861@primary-leech.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2012
+trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2013
+trojan://FH72359861@optimal-urchin.rooster465.autos:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2014
 trojan://ND91608427@202.78.163.148:443?allowInsecure=1&fp=chrome&sni=discrete-basilisk.rooster465.autos#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2015
 trojan://ND91608427@202.78.163.248:443?fp=chrome&sni=relaxed-gull.rooster465.autos#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2016
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2017
