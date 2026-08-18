@@ -1,2 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
-vless://7f3c6d59-e19f-47e4-8004-5facb77b1211@65.109.181.6:80?encryption=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
