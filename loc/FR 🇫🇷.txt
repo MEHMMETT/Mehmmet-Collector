@@ -15,11 +15,11 @@ trojan://ND91608427@15.237.137.197:443?fp=chrome&sni=fancy-skink.rooster465.auto
 trojan://ND91608427@fancy-skink.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2015
 trojan://PQ05174892@humane-bird.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2016
 trojan://PQ05174892@lucky-marmot.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2017
-trojan://QV31589740@great-krill.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2018
-trojan://QV31589740@51.44.160.58:443?fp=chrome&sni=great-krill.rooster465.autos#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2019
+trojan://QV31589740@51.44.160.58:443?fp=chrome&sni=great-krill.rooster465.autos#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2018
+trojan://QV31589740@great-krill.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2019
 vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@finite-node.rtxconfigz.com:443?encryption=none&host=telegram.us&path=%2F&security=tls&sni=finite-node.rtxconfigz.com&type=ws#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2020
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2021
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2022
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2021
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2022
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2023
 vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2024
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?allowInsecure=1&encryption=none&host=bab-6.site&path=%2Fvws%2F&security=tls&sni=bab-6.site&type=ws#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2025

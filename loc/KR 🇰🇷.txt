@@ -4,8 +4,8 @@ trojan://FH72359861@54.180.158.231:443?allowInsecure=0&sni=precise-locust.rooste
 trojan://FH72359861@absolute-bobcat.rooster465.autos:443?allowInsecure=0#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%204
 trojan://FH72359861@complete-narwhal.rooster465.autos:443?allowInsecure=1&sni=complete-narwhal.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%205
 trojan://FH72359861@kind-grizzly.rooster465.autos:443?allowInsecure=0#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%206
-trojan://FH72359861@major-goose.rooster465.autos:443?allowInsecure=0#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%207
-trojan://FH72359861@massive-ocelot.rooster465.autos:443?allowInsecure=0#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%208
+trojan://FH72359861@massive-ocelot.rooster465.autos:443?allowInsecure=0#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%207
+trojan://FH72359861@major-goose.rooster465.autos:443?allowInsecure=0#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%208
 trojan://FH72359861@one-dove.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%209
 trojan://HC04361579@enough-lamb.rooster465.autos:443?sni=enough-lamb.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2010
 trojan://HC04361579@quick-ant.rooster465.autos:443?allowInsecure=0&sni=quick-ant.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2011
@@ -21,8 +21,8 @@ trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=inti
 trojan://ND91608427@main-whippet.rooster465.autos:443?allowInsecure=1&sni=main-whippet.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2021
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2022
 trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=1&sni=pure-ram.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2023
-trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2024
-trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2025
+trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2024
+trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2025
 trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2026
 trojan://PQ05174892@15.164.227.68:443?allowInsecure=0&sni=united-grouse.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2027
 trojan://PQ05174892@awake-redbird.rooster465.autos:443?allowInsecure=1&sni=awake-redbird.rooster465.autos#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%2028
