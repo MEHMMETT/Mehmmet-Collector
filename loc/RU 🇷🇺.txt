@@ -1,3 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4S1VJSkstQjRlU1M3bDFfaGdKUC1B@37.252.20.41:150#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
-ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
+ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
+trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@ru-5b7331.atlanta-games.com:443?mode=gun&security=tls&alpn=h2&insecure=0&fp=edge&type=grpc&serviceName=ajv&allowInsecure=0&sni=ru-5b7331.atlanta-games.com#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru104.mechvpn.online:443?sni=ru104.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%203
+vless://9d01e9f2-1569-48cd-beb3-36f706f5ad5b@45.146.131.154:8452?security=reality&encryption=none&pbk=neW65LaKi88zH-X9gRQPhl5YqQLz9E4IrVnOpS4BnkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=45b10e93bc618c2c#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%204
