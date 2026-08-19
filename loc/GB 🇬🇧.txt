@@ -1,7 +1,7 @@
-trojan://fg20mtCFHy@104.248.167.79:5624?allowInsecure=1&sni=dsgvc.southbyte.xyz#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%201
-vless://a8307b5d-2d9e-4d34-912d-5b5dd8340082@uk.zelnora.ir:64584?#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%202
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%203
-vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?encryption=none&type=tcp&headerType=none#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%204
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@185.193.30.94:443?ed=512&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=josni.hoyes.cloudns.ch&path=%2Fmusiclovers85&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%201
+vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%202
+vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?encryption=none&type=tcp&headerType=none#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%203
+vless://d71aecee-ef16-418e-baf5-2b2458122d5a@89.125.124.178:8443?encryption=none&fp=firefox&security=tls&sni=gb.wlrus.cfd&type=tcp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%204
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=%2Fconnect&security=tls&encryption=none&insecure=0&host=129.121.95.159&fp=chrome&type=ws&allowInsecure=0&sni=129.121.95.159#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%205
 vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkRyLUFudiBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
 vmess://eyJhZGQiOiJub2RlLXVrLmNvbm5lY3RzdWl0ZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI3MmYyY2JlNC0yODc0LTQ1YjctYjZhYS1iOTMwNzdjMTBjNzIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIwNTMiLCJwcyI6IkRyLUFudiBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0

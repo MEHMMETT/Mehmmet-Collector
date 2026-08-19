@@ -1,5 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl134.vpnbook.com:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%205
@@ -10,12 +10,14 @@ trojan://AE62539071@tolerant-mosquito.rooster465.autos:443#Dr-Anv%20%F0%9F%87%B5
 trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?allowInsecure=0#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2010
 trojan://FH72359861@202.78.163.156:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=primary-leech.rooster465.autos#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2011
 trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2012
-trojan://FH72359861@primary-leech.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2013
-trojan://FH72359861@optimal-urchin.rooster465.autos:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2014
+trojan://FH72359861@optimal-urchin.rooster465.autos:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2013
+trojan://FH72359861@primary-leech.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2014
 trojan://ND91608427@202.78.163.148:443?allowInsecure=1&fp=chrome&sni=discrete-basilisk.rooster465.autos#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2015
 trojan://ND91608427@202.78.163.248:443?fp=chrome&sni=relaxed-gull.rooster465.autos#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2016
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2017
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2018
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:8443?encryption=none&fp=&host=wikihow.com&mode=auto&path=%2F&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&security=reality&sni=wikihow.com&type=xhttp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2019
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2020
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2021
+vless://31d1f5ce-e5b5-4fdc-af07-4b343a0622b9@185.70.199.217:33651?security=none&encryption=none&headerType=none&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2019
+vless://6a6f414c-0326-4764-8e90-04f53cdaac57@81.27.100.226:28961?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2020
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:8443?encryption=none&fp=&host=wikihow.com&mode=auto&path=%2F&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&security=reality&sni=wikihow.com&type=xhttp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2021
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2022
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2023

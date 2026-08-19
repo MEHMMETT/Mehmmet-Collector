@@ -1,3 +1,1 @@
-vless://14f493a7-242a-4add-8413-cecc063b3ce3@130.185.123.32:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=android&type=tcp&allowInsecure=0#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%201
-vless://68bdc1ee-c6ee-4d91-ab52-35ce0d368302@193.124.46.65:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=193.124.46.65&type=tcp#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%202
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%203
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%201

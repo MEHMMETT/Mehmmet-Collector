@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
+vless://74fbbe74-906d-5452-a27c-a85fc758bc9f@31.76.53.16.fwqfw783rg2dad.website:443?sni=31.76.53.16.fwqfw783rg2dad.website&alpn=http/1.1&type=ws&host=31.76.53.16.fwqfw783rg2dad.website&path=/websocket?ed=2560fp=firefox&security=tls#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
