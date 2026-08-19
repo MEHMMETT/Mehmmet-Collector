@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru104.mechvpn.online:443?sni=ru104.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru104.mechvpn.online:443?sni=ru104.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
