@@ -1,1 +1,1 @@
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru104.mechvpn.online:443?sni=ru104.mechvpn.online&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
+trojan://654df5c6-73ac-3b11-8269-6b21fb8d9dad@rub01.nwncd.com:489?serviceName=mygrpc&type=grpc#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
