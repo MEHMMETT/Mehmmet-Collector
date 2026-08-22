@@ -1,2 +1,2 @@
-trojan://FH72359861@many-pangolin.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%201
-vless://2942bae7-9dcf-4a2e-f928-933c0ab3eab0@139.180.198.220:52143?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%202
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%201
+trojan://FH72359861@many-pangolin.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%202
