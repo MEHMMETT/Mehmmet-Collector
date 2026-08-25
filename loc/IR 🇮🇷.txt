@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUSVUyUSt6R3Y0M3lTcUVyZU4yNytoYXFWSHNrSWVJUTRJK0RFMUVtMEZrPQ@e4.cover20.ir:16156?type=tcp#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwS3ZxcFVKZVZpdFpMSFIrVVlqSncrNi8xaVU0ZG9Qbjc2UUswR3lFV3FJPQ@e4.cover20.ir:16156?type=tcp#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%201
+vless://a7b22989-6c1f-4b59-b0f3-0605401813c4@45.131.4.115:80?encryption=none&host=worker3.gigak25604.workers.dev&path=%2FeyJqdW5rIjoiQXoydFJwaWM0WSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=none&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%202
