@@ -1,3 +1,2 @@
 vless://19365fd3-d23c-4a9e-a2ef-543d230e65c4@193.233.217.140:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
-vless://42a6ff62-1d4e-4065-8e44-bab910e19e3b@217.149.30.225:443?security=reality&encryption=none&pbk=MFVPHZoccZWr4YZLcIaVedY07BhRfdT4y1XWpp2IWnA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=97fbc6738543f9dc#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
-vless://db7de26b-96d8-452c-8b9d-4a6bf55a7da7@87.249.54.103:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%203
+vless://db7de26b-96d8-452c-8b9d-4a6bf55a7da7@87.249.54.103:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
