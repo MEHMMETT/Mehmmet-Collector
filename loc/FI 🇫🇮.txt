@@ -1,3 +1,2 @@
-vless://c895720b-1b6e-45bf-904c-f2fdce03fd6e@62.238.51.238:3443?pcs=8c11501c6042dd5e11d5b55c99ac535b0976ebe9bc55b67fd47dd7bafd9c55c1&path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=tehran.chapjavan.ir#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443/?insecure=1&sni=hopp-legend-se.roxa.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%203
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443/?insecure=1&sni=hopp-legend-se.roxa.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
