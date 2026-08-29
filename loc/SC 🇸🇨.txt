@@ -1,1 +1,2 @@
-vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?path=%2Fv1&security=none&type=ws#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%A8%201
+trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%A8%201
+vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?path=%2Fv1&security=none&type=ws#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%A8%202
