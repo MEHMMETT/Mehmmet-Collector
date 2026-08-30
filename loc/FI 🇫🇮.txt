@@ -7,5 +7,5 @@ vless://de5b01f7-0697-49ec-aeb1-6ef0361344fb@65.109.215.50:39633?encryption=none
 vmess://eyJhZGQiOiI2NS4xMDkuMjE1LjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRlNWIwMWY3LTA2OTctNDllYy1hZWIxLTZlZjAzNjEzNDRmYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjY5ODAiLCJwcyI6IkRyLUFudiBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZWUgNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443/?insecure=1&sni=fast.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%208
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8443/?sni=hopp-legend-se.roxa.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%209
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%2010
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443/?insecure=1&sni=hopp-legend-se.roxa.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%2011
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443/?insecure=1&sni=hopp-legend-se.roxa.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%2010
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%2011
