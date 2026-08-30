@@ -8,5 +8,5 @@ vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2083?encrypti
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2096?encryption=none&host=usejh2.neobo-tooth.ru&path=%2F&security=none&type=ws#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%208
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&alpn=h2&fp=chrome&type=tcp&headerType=none#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%209
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2010
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.162.6:443/?insecure=1&sni=vpn-fr-001.fastervpn.world#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2011
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2012
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2011
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.162.6:443/?insecure=1&sni=vpn-fr-001.fastervpn.world#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2012
