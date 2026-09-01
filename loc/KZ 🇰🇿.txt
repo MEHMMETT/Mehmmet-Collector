@@ -1,3 +1,3 @@
 trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=borat-hopp.bumbleshrimp.com#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%BF%201
-hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@kaz0001hy01.packet-drop-society.net:443/?insecure=1&sni=kaz0001hy01.packet-drop-society.net#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%BF%202
-hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&sni=kaz0001hy01.packet-drop-society.net#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%BF%203
+hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&sni=kaz0001hy01.packet-drop-society.net#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%BF%202
+hysteria2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@kaz0001hy01.packet-drop-society.net:443/?insecure=1&sni=kaz0001hy01.packet-drop-society.net#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%BF%203
