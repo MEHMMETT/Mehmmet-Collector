@@ -1,7 +1,8 @@
-vless://b6c29ae7-4748-4049-b642-b695c0d2c776@72.35.246.39:2053?security=reality&encryption=none&pbk=TSOm7XIZvGzYoCbh_lFFA9PTQJqI-JU5kKIAffGmUWg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=5e39e518bfac6392#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
-hysteria2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443/?insecure=1&sni=fast.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%203
+vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@78.17.116.201:443?security=reality&encryption=none&pbk=ho99K9SlOhJxolr4nVfw8SV4Z1yI22KaKaxUfk2o8jE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nokia.com#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
+vless://b6c29ae7-4748-4049-b642-b695c0d2c776@72.35.246.39:2053?security=reality&encryption=none&pbk=TSOm7XIZvGzYoCbh_lFFA9PTQJqI-JU5kKIAffGmUWg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=5e39e518bfac6392#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
+hysteria2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%203
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@31.76.30.97:443/?insecure=1&sni=fast.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%204
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%205
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443/?insecure=1&sni=fast.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%205
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8443/?sni=hopp-legend-se.roxa.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%206
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443/?insecure=1&sni=hopp-legend-se.roxa.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%207
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%208
