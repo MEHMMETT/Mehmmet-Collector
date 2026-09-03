@@ -1,8 +1,11 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%201
 ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA@149.102.132.184:443#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%202
 ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA@149.102.132.184:80#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%203
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.56.63:22222?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%204
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.56.63:22224?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%205
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%204
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.56.63:22222?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%205
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.56.63:22223?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%206
-vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkRyLUFudiBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ
-vmess://eyJhZGQiOiJub2RlLXVrLmNvbm5lY3RzdWl0ZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3MmYyY2JlNC0yODc0LTQ1YjctYjZhYS1iOTMwNzdjMTBjNzIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIwNTMiLCJwcyI6IkRyLUFudiBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.56.63:22224?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%207
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.173.203:22223?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%208
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.173.203:22224?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%209
+vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkRyLUFudiBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgMTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0
+vmess://eyJhZGQiOiJub2RlLXVrLmNvbm5lY3RzdWl0ZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3MmYyY2JlNC0yODc0LTQ1YjctYjZhYS1iOTMwNzdjMTBjNzIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIwNTMiLCJwcyI6IkRyLUFudiBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgMTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
