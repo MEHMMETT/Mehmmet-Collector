@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B9%201
-vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?encryption=none&host=itproxy4.lockdwn.com&path=%2F&security=none&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B9%202
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B9%201

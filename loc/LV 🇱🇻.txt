@@ -1,1 +1,2 @@
-hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia2.unlimited-access.ru:443/?sni=hy2-latvia2.unlimited-access.ru#Dr-Anv%20%F0%9F%87%B1%F0%9F%87%BB%201
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=grpc&allowInsecure=0&sni=laoye.in-gect.fun#Dr-Anv%20%F0%9F%87%B1%F0%9F%87%BB%201
+hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia2.unlimited-access.ru:443/?sni=hy2-latvia2.unlimited-access.ru#Dr-Anv%20%F0%9F%87%B1%F0%9F%87%BB%202
