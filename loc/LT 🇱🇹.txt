@@ -1,2 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#Dr-Anv%20%F0%9F%87%B1%F0%9F%87%B9%201
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@144.31.243.249:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=L3AYjn3nBIBik5EikZLg0G6GcwWUx24AxZ5rNzxD8TM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lt-1.kihsuyhf8jkiugsxb.cfd#Dr-Anv%20%F0%9F%87%B1%F0%9F%87%B9%202
