@@ -1,3 +1,0 @@
-vless://9d9e3421-5652-4804-85ba-238355b948ab@94.183.170.248:443?encryption=none&security=none&type=ws#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%AA%201
-vless://9d9e3421-5652-4804-85ba-238355b948ab@94.183.170.248:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&security=tls&sni=estproxy3.lockdwn.com&type=tcp#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%AA%202
-vless://9d9e3421-5652-4804-85ba-238355b948ab@estproxy3.lockdwn.com:443?encryption=none&security=none&type=ws#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%AA%203
