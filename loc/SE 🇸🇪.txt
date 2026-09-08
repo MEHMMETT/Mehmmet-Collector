@@ -1,2 +1,0 @@
-vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%201
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.42.39.10:33743?security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=firefox&type=grpc&serviceName=TunService&sni=www.google.com#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%202
