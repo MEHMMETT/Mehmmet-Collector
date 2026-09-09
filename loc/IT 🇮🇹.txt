@@ -1,7 +1,7 @@
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B9%201
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&host=ov-italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B9%202
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B9%203
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B9%202
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&host=ov-italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B9%203
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&host=ov-italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B9%204
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B9%205
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2ra&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B9%206
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2ra&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B9%205
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B9%206
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B9%207
