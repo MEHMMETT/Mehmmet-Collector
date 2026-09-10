@@ -3,7 +3,7 @@ vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=non
 vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=none&encryption=none&headerType=none&type=tcp#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%203
 vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE4MDAwIiwicHMiOiJEci1BbnYgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0tTGV2aWtvX3YycmF5IiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJEci1BbnYgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.76.106:443/?insecure=1&sni=vk.com#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%206
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.120.9:443/?insecure=1&sni=13.250.120.9#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%207
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.120.9:443/?insecure=1&sni=13.250.120.9#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%206
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.76.106:443/?insecure=1&sni=vk.com#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%207
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.151.142.26:443/?insecure=1&sni=whatsapp.com#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%208
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.0.20:443/?insecure=1&sni=speedtest.tinkoff.ru#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%209
