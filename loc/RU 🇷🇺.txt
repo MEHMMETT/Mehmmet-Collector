@@ -1,2 +1,2 @@
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/?sni=msk.frkn.org#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.93.126:443/?insecure=1&sni=admin.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.93.126:443/?insecure=1&sni=admin.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/?sni=msk.frkn.org#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
