@@ -1,2 +1,0 @@
-hysteria2://4fb82973-a7f1-4fc2-9958-cb21f5162f06@che01plrhy01.tcp-reset-club.net:443/?sni=che01plrhy01.tcp-reset-club.net#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%201
-hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%202
