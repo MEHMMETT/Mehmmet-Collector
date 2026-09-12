@@ -1,0 +1,1 @@
+vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@ww6.levikogjgfdd.ir:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#Dr-Anv%20%F0%9F%87%BD%F0%9F%87%BD%201

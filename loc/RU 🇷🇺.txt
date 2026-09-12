@@ -1,4 +1,7 @@
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.131.255.35:9894?mode=gun&security=reality&encryption=none&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&fp=safari&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@45.91.55.208:443?security=reality&encryption=none&pbk=a8huhMB5qb3Q0zYwG1QzPjSDTrXufkZMlADT-_EMPhc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/?sni=msk.frkn.org#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%203
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443/?insecure=1&sni=news.gazette.help#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%204
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=xhttp&sni=download.nvidia.com#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:8443?mode=gun&security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&fp=chrome&type=grpc&serviceName=TunService&sni=dl.dell.com#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@188.68.216.38:9891?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%203
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.131.255.35:9894?mode=gun&security=reality&encryption=none&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&fp=safari&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%204
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@45.91.55.208:443?security=reality&encryption=none&pbk=a8huhMB5qb3Q0zYwG1QzPjSDTrXufkZMlADT-_EMPhc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%205
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/?sni=msk.frkn.org#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%206
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443/?insecure=1&sni=news.gazette.help#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%207

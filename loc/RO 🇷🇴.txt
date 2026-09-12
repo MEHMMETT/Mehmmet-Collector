@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%B4%201
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@194.5.248.93:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=roma1.moritech.net&type=tcp#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%B4%202
