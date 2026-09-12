@@ -1,4 +1,4 @@
-vless://dfad3362-8534-4495-bf49-89f2ae229e7a@77.223.119.80:8200?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=1KrzmnGnXweOpiuDle8bRNY6BPXWsD7ufzx1uFurl1c&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru01.arpanet-cdn.com#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@45.91.55.208:443?security=reality&encryption=none&pbk=a8huhMB5qb3Q0zYwG1QzPjSDTrXufkZMlADT-_EMPhc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.93.126:443/?insecure=1&sni=admin.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/?sni=msk.frkn.org#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%203
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443/?insecure=1&sni=news.gazette.help#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%204
