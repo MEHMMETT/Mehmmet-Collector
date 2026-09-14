@@ -3,8 +3,8 @@ ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#Dr-Anv%20%F0%9F%87%B5%F0%9
 vless://568addfa-796a-40f8-820d-a071ee2ca50a@95.85.253.208:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&fp=firefox&type=xhttp&sni=www.google.com#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.10:33743?encryption=none&fp=&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&type=grpc#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.16:33743?encryption=none&fp=&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&type=grpc#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%205
-vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?encryption=none&host=178.95.170.83&path=%2F4bc027a44532&security=none&type=ws#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%206
-vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?encryption=none&host=Telegram-Leviko_v2ray&path=%2F4bc027a44532&security=none&type=ws#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%207
+vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?encryption=none&host=Telegram-Leviko_v2ray&path=%2F4bc027a44532&security=none&type=ws#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%206
+vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?encryption=none&host=178.95.170.83&path=%2F4bc027a44532&security=none&type=ws#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%207
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.98:2087?encryption=none&path=%2F4bc027a44532&security=none&type=ws#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%208
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.2.33:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=pl3.moritech.net&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%209
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl6.moritech.net&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2010
