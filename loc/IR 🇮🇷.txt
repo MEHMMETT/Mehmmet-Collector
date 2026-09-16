@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPK3FMc29xVldCZFkyRDNseHRkNWtzQndrcDNRY2xRNmQrSUFSbFB0Rm93PQ@e2.cover20.ir:30874?type=tcp#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%201
+vless://32721515-985b-4773-9e70-5d2e1b88a060@212.16.92.111:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%201
 vless://32721515-985b-4773-9e70-5d2e1b88a060@212.16.92.112:443?&security=reality&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=jobinvest.ru&type=tcp&headerType=none&host=jobinvest.ru&path=%2F#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%202
-vless://32721515-985b-4773-9e70-5d2e1b88a060@212.16.92.111:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%203
