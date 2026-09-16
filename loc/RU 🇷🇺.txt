@@ -1,5 +1,5 @@
-vless://419f25c1-bc35-412e-93fb-258efee859b5@ru2.oshost.network:80?path=%2Fapi%2Fv2%2Fstream&security=none&encryption=none&type=ws#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
-vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?encryption=none&host=cf3.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=cf3.rumedia-cdn.com&type=ws#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
+vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?encryption=none&host=cf3.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=cf3.rumedia-cdn.com&type=ws#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.125.103.62:8082?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cdn8848.776676.xyz&path=%2Ftags%2Fphotos%2Finfo&security=tls&sni=cdn8848.776676.xyz&type=ws#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443/?sni=hy.quattro-tech.ru#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%203
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els1.mangshe.xyz:2056/?insecure=1&sni=www.microsoft.com#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%204
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/?sni=msk.frkn.org#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%205
