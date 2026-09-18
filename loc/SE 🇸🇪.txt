@@ -1,4 +1,6 @@
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@143.246.194.60:8081?path=%2Fvless-test&security=&encryption=none&type=ws#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%201
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@143.246.195.138:8081?path=%2Fvless-test&security=&encryption=none&type=ws#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%202
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.42.39.10:33743?encryption=none&fp=&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&type=grpc#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%203
-hysteria2://29ffde49-e1d6-4dcd-a135-352920f9f0b8@se-node.rumedia-cdn.com:25443/?sni=cf2.rumedia-cdn.com#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%204
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.181.177.8:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=%2Fchannels%2Fact&security=tls&sni=cdn8848.776676.xyz&type=ws#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%204
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@84.32.217.120:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=%2Fchannels%2Fact&security=tls&sni=cdn8848.776676.xyz&type=ws#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%205
+hysteria2://29ffde49-e1d6-4dcd-a135-352920f9f0b8@se-node.rumedia-cdn.com:25443/?sni=cf2.rumedia-cdn.com#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%206
