@@ -1,1 +1,2 @@
 vless://b2593749-691c-428c-9481-14979cba3446@132.243.203.202:8443?encryption=none&fp=chrome&host=xi.tbv.ccwu.cc&path=%2F&security=tls&sni=xi.tbv.ccwu.cc&type=ws#Dr-Anv%20%F0%9F%87%A6%F0%9F%87%B9%201
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@62.60.238.191:443?allowInsecure=1&encryption=none&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#Dr-Anv%20%F0%9F%87%A6%F0%9F%87%B9%202
