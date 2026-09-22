@@ -1,2 +1,5 @@
-vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.219:443?encryption=none&fp=chrome&host=nb.lovecf.ggff.net&path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&sni=nb.lovecf.ggff.net&type=ws#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%BF%201
-vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@cz1.zuoai.cf:443?encryption=none&host=nb.lovecf.ggff.net&path=%2F&security=tls&sni=nb.lovecf.ggff.net&type=ws#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%BF%202
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.252:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%BF%201
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.29:443?encryption=none&host=nb.lovecf.ggff.net&path=%2F&security=tls&sni=nb.lovecf.ggff.net&type=ws#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%BF%202
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.217:443?encryption=none&host=nb.lovecf.ggff.net&path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&sni=nb.lovecf.ggff.net&type=ws#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%BF%203
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.219:443?encryption=none&fp=chrome&host=nb.lovecf.ggff.net&path=%2Fproxyip%3Dus.xiabibi.cf&security=tls&sni=nb.lovecf.ggff.net&type=ws#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%BF%204
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@cz1.zuoai.cf:443?encryption=none&host=nb.lovecf.ggff.net&path=%2F&security=tls&sni=nb.lovecf.ggff.net&type=ws#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%BF%205
