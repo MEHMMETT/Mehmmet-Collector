@@ -1,4 +1,4 @@
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.18:8081?path=%2Fvless-test&security=&encryption=none&type=ws#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%AC%201
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.37.199:8081?encryption=none&path=%2Fvless-test&security=none&type=ws#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%AC%202
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.37.199:8081?encryption=none&path=%2Fvless-test&security=none&type=ws#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%AC%201
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.18:8081?path=%2Fvless-test&security=&encryption=none&type=ws#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%AC%202
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.31:8081?path=%2Fvless-test&security=&encryption=none&type=ws#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%AC%203
 vless://9ae5940b-0278-403d-a1e1-9dddc47bdcf6@136.175.82.85:18775?encryption=none&flow=xtls-rprx-vision&fp=&pbk=oR75S6pg_RDAKIuzv_WrCiwaUqqFoek2iuo5N22llQQ&security=reality&sid=6ba85179e30d4fc2&sni=addons.mozilla.org&type=tcp#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%AC%204
