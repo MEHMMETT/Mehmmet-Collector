@@ -1,2 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoiRHItQW52IFx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyAxIiwiYWRkIjoiMTQwLjIzOC4yLjI1MCIsInBvcnQiOiI0NDMiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?security=tls&insecure=0&sni=152-69-231-175.liao.kdns.fr#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%202
+hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?security=tls&insecure=0&sni=152-69-231-175.liao.kdns.fr#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%201
