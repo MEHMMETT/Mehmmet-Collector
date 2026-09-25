@@ -1,1 +1,2 @@
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?encryption=none&path=%2F&security=none&type=ws#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%AA%201
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@217.60.182.79:443?security=tls&insecure=1&sni=cabinet.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%AA%202
