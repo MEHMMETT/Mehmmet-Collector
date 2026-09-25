@@ -1,1 +1,2 @@
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%BC%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.141.124:50099#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%BC%201
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%BC%202
