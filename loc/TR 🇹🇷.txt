@@ -1,0 +1,3 @@
+vless://a54166f2-56c7-44f6-abc5-24dbed940bc3@turkey3fcsdkck432cjk423kck4c32klj4clk23cjldjslcrjkl32ckl4jdsckl.nevoxa.ir:48704?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%201
+vless://a54166f2-56c7-44f6-abc5-24dbed940bc3@TurkeyNewSpeed1234554321.alphavpscloud.ir:33017?security=none&encryption=none&host=TurkeyNewSpeed1234554321.alphavpscloud.ir&headerType=http&type=tcp#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%202
+vless://a54166f2-56c7-44f6-abc5-24dbed940bc3@turkey3fcsdkck432cjk423kck4c32klj4clk23cjldjslcrjkl32ckl4jdsckl.nevoxa.ir:32210?security=none&encryption=none&headerType=none&type=tcp#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%203
