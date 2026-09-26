@@ -1,1 +1,2 @@
 trojan://humanity@212.227.144.37:8443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%201
+vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiRHItQW52IFx1ZDgzY1x1ZGRlYVx1ZDgzY1x1ZGRmOCAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
