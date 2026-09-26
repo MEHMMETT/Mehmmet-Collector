@@ -2,5 +2,4 @@ ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw@70.34.212.124:8388#Dr-Anv%20%F0%9F%8
 ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@172.238.244.13:17000#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%202
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@143.246.195.138:8081?path=%2Fvless-test&security=&encryption=none&type=ws#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%203
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@143.246.194.60:8081?encryption=none&path=%2Fvless-test&security=none&type=ws#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%204
-vless://77da6e30-ad4e-11f1-94d5-525400d1d4f7@143.246.193.215:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&security=reality&sni=www.blocket.se&type=tcp#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%205
-hysteria2://02bd8b5a-170b-4a79-8e68-9cec710272c7@se1.chromevpn.cc:443/?sni=se1.chromevpn.cc#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%206
+hysteria2://02bd8b5a-170b-4a79-8e68-9cec710272c7@se1.chromevpn.cc:443/?sni=se1.chromevpn.cc#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%205
