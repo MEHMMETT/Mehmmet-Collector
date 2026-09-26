@@ -1,3 +1,2 @@
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081?encryption=none&path=%2Fvless-test&security=none&type=ws#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%201
-hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%202
-hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.229:8443/?insecure=1&sni=hopp-swizland-new.mysynology.net#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%203
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%201
+hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.229:8443/?insecure=1&sni=hopp-swizland-new.mysynology.net#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%202

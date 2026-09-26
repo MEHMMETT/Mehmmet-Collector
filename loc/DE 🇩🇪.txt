@@ -2,8 +2,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE%3D@51.195.126.38:8388#Dr-An
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#Dr-Anv%20%F0%9F%87%A9%F0%9F%87%AA%202
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#Dr-Anv%20%F0%9F%87%A9%F0%9F%87%AA%203
 ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@206.189.52.4:17000#Dr-Anv%20%F0%9F%87%A9%F0%9F%87%AA%204
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#Dr-Anv%20%F0%9F%87%A9%F0%9F%87%AA%205
-trojan://humanity@185.220.100.168:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#Dr-Anv%20%F0%9F%87%A9%F0%9F%87%AA%206
+trojan://humanity@185.220.100.168:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#Dr-Anv%20%F0%9F%87%A9%F0%9F%87%AA%205
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#Dr-Anv%20%F0%9F%87%A9%F0%9F%87%AA%206
 vless://20dd9433-389e-4573-ba7b-689619cf13da@89.169.53.176:4443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=YIyohkkCU5kw6J5iZYZkhILyDwlfftFPDTkbITlrAUw&security=reality&sid=df3aff719526dc5a&sni=de.wvpn.one&type=tcp#Dr-Anv%20%F0%9F%87%A9%F0%9F%87%AA%207
 vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?encryption=none&host=%2F%3F--v2rayNplus--v2rayNplus--v2rayNplus--&path=%2F29c8fed7ca22&security=none&type=ws#Dr-Anv%20%F0%9F%87%A9%F0%9F%87%AA%208
 vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?encryption=none&host=82.24.203.20&path=%2Ffd5ba98a3970&security=none&type=ws#Dr-Anv%20%F0%9F%87%A9%F0%9F%87%AA%209
@@ -15,5 +15,4 @@ vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-571299667-direct.mbghalibaf.
 vmess://eyJhZGQiOiJtZTYubW92aWVzZXJ5YWxpcmFuaS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlZDgxNWNhYS1iZmYxLTQ0MTktOGM2MS0xZDEwOGVhYmFmMWYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjU3MzYxIiwicHMiOiJEci1BbnYgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIDE1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiJ9
 vmess://eyJhZGQiOiIyMTYuMTA2LjE4Ny42MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJEci1BbnYgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIDE2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
 hysteria2://4927997d847df94e1cc3f8dd77ce3283@194.87.55.90:443/?insecure=1&sni=api-maps.yandex.ru#Dr-Anv%20%F0%9F%87%A9%F0%9F%87%AA%2017
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@95.85.252.47:9443/?insecure=1&sni=onecloudstream.com#Dr-Anv%20%F0%9F%87%A9%F0%9F%87%AA%2018
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1&sni=germany3.h2corp.local#Dr-Anv%20%F0%9F%87%A9%F0%9F%87%AA%2019
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1&sni=germany3.h2corp.local#Dr-Anv%20%F0%9F%87%A9%F0%9F%87%AA%2018
