@@ -6,6 +6,6 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@atatat.failspace.top:443?sni=atatat
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%206
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%207
 vless://nasnet@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%208
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%209
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2010
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%209
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2010
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%2011
