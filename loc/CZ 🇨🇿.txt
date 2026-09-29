@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@141.227.134.63:17000#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%BF%201
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.133:8443/?insecure=1&sni=hop-germany-september.dynuddns.com#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%BF%202
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.133:8443/?insecure=1&sni=hop-germany-september.dynuddns.com#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%BF%201
