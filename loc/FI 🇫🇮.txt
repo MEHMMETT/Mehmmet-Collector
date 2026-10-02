@@ -1,1 +1,1 @@
-vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@77.42.20.51:1085?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
+hysteria2://06e88dd6-e264-4981-8c26-d7ab17348ab2@144.31.232.216:443/?sni=fi01.clgate.network#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201

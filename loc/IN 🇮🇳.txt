@@ -1,1 +1,0 @@
-vless://d90087c3-54f5-4283-a13f-615260c8b0c7@139.84.177.239:443?security=reality&type=tcp&packetEncoding=xudp&sni=googleapis.com&fp=chrome&flow=xtls-rprx-vision&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B3%201
