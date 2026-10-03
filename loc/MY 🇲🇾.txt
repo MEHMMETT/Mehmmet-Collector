@@ -1,2 +1,2 @@
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?encryption=none&host=platform118.halalkhor.info&path=%2Fplatform118&security=none&type=ws#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%201
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?encryption=none&host=platform117.halalkhor.info&path=%2Fplatform117&security=none&type=ws#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%202
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?encryption=none&host=platform117.halalkhor.info&path=%2Fplatform117&security=none&type=ws#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%201
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?encryption=none&host=platform118.halalkhor.info&path=%2Fplatform118&security=none&type=ws#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%202
