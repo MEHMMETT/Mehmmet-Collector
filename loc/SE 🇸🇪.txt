@@ -1,1 +1,2 @@
-vless://ac0c2945-b758-11f1-8181-54db13ea7d40@143.246.196.207:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&security=reality&sni=www.blocket.se&type=tcp#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%201
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@199.68.198.13:443?&security=reality&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox&sni=example.org&type=tcp&headerType=none&host=example.org&path=%2F#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%201
+vless://ac0c2945-b758-11f1-8181-54db13ea7d40@143.246.196.207:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&security=reality&sni=www.blocket.se&type=tcp#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%202
