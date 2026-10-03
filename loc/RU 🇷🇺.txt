@@ -1,3 +1,2 @@
 vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@201.34.159.221:443?sni=us1.g4m1.biz&type=grpc&serviceName=cdn.v1.AssetService&fp=firefox&security=tls#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443/?sni=hy.quattro-tech.ru#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%203
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
