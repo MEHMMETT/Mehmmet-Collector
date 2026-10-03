@@ -1,7 +1,6 @@
 trojan://uCzwXi06tusoiP5kAUKrsg@195.15.202.111:80?headerType=http&host=www.upwork.com&security=none&type=tcp#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%201
-vless://4275431a-f97c-4d84-929a-9ef411d3d10b@89.125.95.229:443?path=%2F&security=reality&encryption=none&pbk=-XhK_SoQ-5CyefHn-QBhsSpnq2mFHRBod6ramT2J9lg&fp=firefox&type=xhttp&sni=r1256197.s2537.vm.mydomain.zone#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%202
-hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%203
-hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.239:8443/?sni=hopp-swizland-new.mysynology.net#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%204
-hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.229:8443/?insecure=1&sni=hopp-swizland-new.mysynology.net#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%205
-hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.235:8443/?insecure=1&sni=hopp-swizland-new.mysynology.net#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%206
-hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.237:8443/?sni=hopp-swizland-new.mysynology.net#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%207
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%202
+hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.239:8443/?sni=hopp-swizland-new.mysynology.net#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%203
+hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.229:8443/?insecure=1&sni=hopp-swizland-new.mysynology.net#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%204
+hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.235:8443/?insecure=1&sni=hopp-swizland-new.mysynology.net#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%205
+hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.237:8443/?sni=hopp-swizland-new.mysynology.net#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%206
