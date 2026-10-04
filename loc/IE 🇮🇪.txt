@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRcjNSTEhKTG5nYnBsUFdk@20.238.125.195:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqVWc5d2x1ajVpT2lZOXNJ@20.238.125.195:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuZzBYVENoZ2JKSjNTdjJk@20.238.125.195:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%203
-trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-shark.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%204
+trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%201
+trojan://UX82473651@sacred-anemone.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%202
