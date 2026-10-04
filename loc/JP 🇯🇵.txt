@@ -7,10 +7,10 @@ trojan://UX82473651@brief-glider.rooster465.autos:443?allowInsecure=1&sni=brief-
 trojan://UX82473651@comic-poodle.rooster465.autos:443?allowInsecure=1&sni=comic-poodle.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%207
 trojan://UX82473651@concrete-aardvark.rooster465.autos:443?allowInsecure=1&sni=concrete-aardvark.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%208
 trojan://UX82473651@dynamic-imp.rooster465.autos:443?allowInsecure=1&sni=dynamic-imp.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%209
-trojan://UX82473651@evolving-platypus.rooster465.autos:443?allowInsecure=1&sni=evolving-platypus.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%2010
-trojan://UX82473651@fancy-javelin.rooster465.autos:443?allowInsecure=1&sni=fancy-javelin.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%2011
-trojan://UX82473651@intense-sole.rooster465.autos:443?allowInsecure=1&sni=intense-sole.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%2012
-trojan://UX82473651@integral-rodent.rooster465.autos:443?allowInsecure=1&sni=integral-rodent.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%2013
+trojan://UX82473651@fancy-javelin.rooster465.autos:443?allowInsecure=1&sni=fancy-javelin.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%2010
+trojan://UX82473651@evolving-platypus.rooster465.autos:443?allowInsecure=1&sni=evolving-platypus.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%2011
+trojan://UX82473651@integral-rodent.rooster465.autos:443?allowInsecure=1&sni=integral-rodent.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%2012
+trojan://UX82473651@intense-sole.rooster465.autos:443?allowInsecure=1&sni=intense-sole.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%2013
 trojan://UX82473651@musical-terrier.rooster465.autos:443?allowInsecure=1&sni=musical-terrier.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%2014
 trojan://UX82473651@obliging-louse.rooster465.autos:443?allowInsecure=1&sni=obliging-louse.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%2015
 trojan://UX82473651@organic-caribou.rooster465.autos:443?allowInsecure=1&sni=organic-caribou.rooster465.autos#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%2016
