@@ -1,3 +1,4 @@
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?sni=admin.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%201
+vless://d666e16b-2b64-4499-bb32-896c26dc2e3d@pl-ade19411d2.shamanapp.online:33740?alpn=h2%2Chttp%2F1.1&encryption=none&host=pl-ade19411d2.shamanapp.online&mode=stream-up&path=%2FShamanXHTTP2026&security=tls&sni=pl-ade19411d2.shamanapp.online&type=xhttp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%201
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%202
-hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443/?insecure=1&sni=streambox.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?sni=admin.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
+hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443/?insecure=1&sni=streambox.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
