@@ -1,1 +1,0 @@
-trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@46.8.100.93:443?allowInsecure=1&security=tls&sni=nl.zhabulik.ru#Dr-Anv%20%F0%9F%87%A6%F0%9F%87%AA%201
