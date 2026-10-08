@@ -1,6 +1,6 @@
 trojan://UX82473651@18.143.92.167:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=glowing-marmoset.rooster465.autos#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%201
 trojan://UX82473651@glowing-marmoset.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%202
-trojan://UX82473651@real-cardinal.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%203
-trojan://UX82473651@pet-antelope.rooster465.autos:443?allowInsecure=1&sni=pet-antelope.rooster465.autos#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%204
+trojan://UX82473651@pet-antelope.rooster465.autos:443?allowInsecure=1&sni=pet-antelope.rooster465.autos#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%203
+trojan://UX82473651@real-cardinal.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AC%204
 vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IkRyLUFudiBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMgNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE4MDAwIiwicHMiOiJEci1BbnYgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIDYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
