@@ -1,8 +1,7 @@
-vless://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%201
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&host=platform101.halalkhor.info&path=/platform101#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%202
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?sni=platform102.golnamakcert.top&type=ws&host=platform102.halalkhor.info&path=/platform102#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%203
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?sni=platform103.halalkhor.info&type=ws&host=platform103.halalkhor.info&path=/platform103#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%204
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?path=%2Fplatform109&security=none&encryption=none&host=platform109.halalkhor.info&type=ws#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%205
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?type=ws&host=platform106.halalkhor.info&path=/platform106#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%206
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?encryption=none&host=platform117.halalkhor.info&path=%2Fplatform117&security=none&type=ws#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%207
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?encryption=none&host=platform118.halalkhor.info&path=%2Fplatform118&security=none&type=ws#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%208
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@166.88.35.245:80?encryption=none&host=platform117.halalkhor.info&path=%2Fplatform117&security=none&type=ws#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%201
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?type=ws&host=platform106.halalkhor.info&path=/platform106#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%202
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?path=%2Fplatform109&security=none&encryption=none&host=platform109.halalkhor.info&type=ws#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%203
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform118.golnamakcert.top:80?encryption=none&host=platform118.halalkhor.info&path=%2Fplatform118&security=none&type=ws#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%204
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?encryption=none&host=platform117.halalkhor.info&path=%2Fplatform117&security=none&type=ws#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%205
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&host=platform101.halalkhor.info&path=/platform101#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%206
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?sni=platform102.golnamakcert.top&type=ws&host=platform102.halalkhor.info&path=/platform102#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BE%207

@@ -1,1 +1,2 @@
 ss://YWVzLTEyOC1nY206ZjkzMDBhOWJmMzlhZTAzNDdjM2EzYmZiYzRkZDc3NTQ@185.103.110.68:18283#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
