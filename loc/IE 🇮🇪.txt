@@ -1,3 +1,5 @@
-trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%201
-trojan://UX82473651@sacred-anemone.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%202
-vless://d342d11e-d224-4463-b982-532309285094@23.95.225.10:8443?encryption=none&host=ccc.010304.xyz&path=%2Ffp%3Dchrome&security=tls&sni=ccc.010304.xyz&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MWVpVGJObmw3cnBlMWls@20.123.11.204:443?type=tcp&headerType=none#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIMGd0T1prcnFyYWxkcmhN@20.123.11.204:443?type=tcp&headerType=none#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%202
+trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%203
+trojan://UX82473651@sacred-anemone.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%204
+vless://d342d11e-d224-4463-b982-532309285094@23.95.225.10:8443?encryption=none&host=ccc.010304.xyz&path=%2Ffp%3Dchrome&security=tls&sni=ccc.010304.xyz&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%205
