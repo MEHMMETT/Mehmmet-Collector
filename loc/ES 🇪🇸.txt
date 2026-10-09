@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%201
+trojan://humanity@185.114.72.31:2053?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%202
