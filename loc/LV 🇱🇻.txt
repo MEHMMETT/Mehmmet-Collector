@@ -1,1 +1,2 @@
-hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@lv02.gotosvo.com:9443/?insecure=1&sni=onecloudstream.com#Dr-Anv%20%F0%9F%87%B1%F0%9F%87%BB%201
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@104.165.205.21:9443/?sni=onecloudstream.com#Dr-Anv%20%F0%9F%87%B1%F0%9F%87%BB%201
+hysteria2://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@lv02.gotosvo.com:9443/?insecure=1&sni=onecloudstream.com#Dr-Anv%20%F0%9F%87%B1%F0%9F%87%BB%202
