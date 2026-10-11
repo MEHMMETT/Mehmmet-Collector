@@ -1,3 +1,2 @@
 ss://YWVzLTEyOC1nY206ZjkzMDBhOWJmMzlhZTAzNDdjM2EzYmZiYzRkZDc3NTQ@185.103.110.68:18283#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
-vless://a95c18d0-1b39-4bc7-8521-b62b5ab3f3f7@fun.zovip2.ir:443?path=%2Fgropcdn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=toping.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=toping.zovip2.ir#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@153.80.241.206:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%203
+vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@153.80.241.206:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
