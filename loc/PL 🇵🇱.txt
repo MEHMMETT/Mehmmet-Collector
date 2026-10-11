@@ -1,5 +1,6 @@
 vless://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?encryption=none&security=tls&sni=pl.flen-vpn.xyz&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%201
 vless://51a1fd52-fd88-4905-a976-35e44be28e4b@pl.flen-vpn.xyz:8443?encryption=none&security=tls&sni=pl.flen-vpn.xyz&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%202
 vless://ee0a38e3-d148-48ac-ba99-5133446c2377@95.85.253.241:2083?encryption=none&security=tls&sni=95.85.253.241&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?sni=admin.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%205
+vless://ee0a38e3-d148-48ac-ba99-5133446c2377@95.85.253.241:2087?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=95.85.253.241#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?sni=admin.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%205
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%206
