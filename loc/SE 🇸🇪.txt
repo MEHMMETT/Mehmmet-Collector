@@ -1,1 +1,0 @@
-vless://621bcb9e-7df5-427b-a9d4-6e87223c8bca@2.26.55.163:443?security=reality&encryption=none&pbk=0eWdILjmoRVSJFDMiQskgkKG2Fc4TEMZ3XEPJ8ez9Hw&host=%2F%3FTelegram---mehrosaboran&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=specific3.kandnet.com#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%201
