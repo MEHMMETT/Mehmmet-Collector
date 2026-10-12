@@ -1,0 +1,1 @@
+vless://9f9b66ba-e964-4e0e-be38-293134868a67@gadfather.zovip2.ir:443?path=%2Fgropcdn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=gadfather.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=gadfather.zovip2.ir#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%201
