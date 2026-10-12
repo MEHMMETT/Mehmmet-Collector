@@ -1,0 +1,1 @@
+trojan://humanity@144.31.195.61:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Dr-Anv%20%F0%9F%87%BA%F0%9F%87%A6%201
