@@ -1,9 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYXlZYTJWN3BVYkpCZkt1@20.234.97.18:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNXNFdlppS21lbnMxMDRC@20.234.97.18:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%202
-trojan://UX82473651@3.253.106.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=loved-shark.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%203
-trojan://UX82473651@34.242.77.118:443?fp=chrome&sni=sacred-anemone.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%204
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%205
-trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%206
-trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%207
-trojan://UX82473651@sacred-anemone.rooster465.autos:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%208
-vless://d342d11e-d224-4463-b982-532309285094@23.95.225.10:8443?encryption=none&fp=chrome&host=ccc.010304.xyz&path=%2F&security=tls&sni=ccc.010304.xyz&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%209
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cUtKbGMyWjZsbzY0YlVx@4.210.66.165:443#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%201
+trojan://UX82473651@3.253.106.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=loved-shark.rooster465.autos#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%202
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%203
+trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%204
+trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%205
+vless://d342d11e-d224-4463-b982-532309285094@23.95.225.10:8443?encryption=none&fp=chrome&host=ccc.010304.xyz&path=%2F&security=tls&sni=ccc.010304.xyz&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%206

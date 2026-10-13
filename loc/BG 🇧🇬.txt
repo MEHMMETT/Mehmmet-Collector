@@ -1,1 +1,0 @@
-trojan://humanity@193.239.160.134:443?host=www.calmlunch.com&path=%252Fassignment&sni=www.calmlunch.com&type=ws#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%AC%201
