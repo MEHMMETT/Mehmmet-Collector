@@ -1,4 +1,6 @@
 ss://YWVzLTEyOC1nY206ZjkzMDBhOWJmMzlhZTAzNDdjM2EzYmZiYzRkZDc3NTQ@185.103.110.68:18283#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
 trojan://humanity@144.31.182.130:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@109.172.54.135:8444?encryption=none&fp=&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sni=github.com&type=grpc#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%203
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@153.80.241.206:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%204
+trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%203
+trojan://humanity@46.62.230.149:443?host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%204
+vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@109.172.54.135:8444?encryption=none&fp=&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sni=github.com&type=grpc#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%205
+vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@153.80.241.206:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%206
