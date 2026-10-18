@@ -1,5 +1,5 @@
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
-hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.114.2:54183/?sni=outh.yandex-cloud.org#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
-hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183/?sni=outh.yandex-cloud.org#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%203
-hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.106.162:54183/?sni=outh.yandex-cloud.org#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%204
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@outh.yandex-cloud.org:54183/?sni=outh.yandex-cloud.org#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.106.162:54183/?sni=outh.yandex-cloud.org#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%203
+hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.114.2:54183/?sni=outh.yandex-cloud.org#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%204
 hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053/?sni=match-stream.lovkisport.blog#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%205

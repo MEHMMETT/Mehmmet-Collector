@@ -1,1 +1,0 @@
-vless://a41f79ce-b471-46af-b0f6-932377c60a83@fast-pars.netbazshop.ir:35731?mode=packet-up&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=Snapp.ir&type=xhttp#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%201
