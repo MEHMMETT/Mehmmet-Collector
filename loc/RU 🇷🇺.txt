@@ -1,2 +1,5 @@
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053/?sni=match-stream.lovkisport.blog#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
+vless://ccd0671b-a168-4151-8bc2-37dce0c5738c@185.178.208.140:443?encryption=none&fp=chrome&host=bakarova-top.ru&mode=auto&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=bakarova-top.ru&type=xhttp#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%203
+hysteria2://36cd82d2-50b1-0029-b520-2acc9a8a6b40@194.55.235.77:443/?sni=api-l1-2.northvale.cloud#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%204
+hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053/?sni=match-stream.lovkisport.blog#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%205
