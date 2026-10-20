@@ -1,1 +1,1 @@
-hysteria2://36cd82d2-50b1-400d-b520-2acc9a8a6b40@fi.northvale.cloud:443/?sni=fi.northvale.cloud#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
+trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201

@@ -1,2 +1,0 @@
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@138.124.63.224:8444?encryption=none&fp=&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sid=457fab2ac885dbe0&sni=github.com&type=grpc#Dr-Anv%20%F0%9F%87%B1%F0%9F%87%BB%201
-hysteria2://36cd82d2-50b1-400d-b520-2acc9a8a6b40@lv1.northvale.cloud:443/?sni=lv.northvale.cloud#Dr-Anv%20%F0%9F%87%B1%F0%9F%87%BB%202
