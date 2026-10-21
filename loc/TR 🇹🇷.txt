@@ -1,1 +1,0 @@
-trojan://humanity@143.246.136.156:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%201
