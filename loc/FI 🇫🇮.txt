@@ -1,4 +1,1 @@
 trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
-trojan://vyn7irc6gzdo78ds@65.109.209.239:43586?security=none&headerType=none&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
-vless://0a9dfb0b-4fe1-40fe-b74c-0367e666ca96@65.109.209.239:30079?security=none&encryption=none&headerType=none&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%203
-vless://0a9dfb0b-4fe1-40fe-b74c-0367e666ca96@65.109.209.239:33477?security=none&encryption=none&headerType=none&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%204
