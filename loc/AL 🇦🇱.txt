@@ -1,1 +1,0 @@
-hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@157.22.240.126:28152?security=tls&insecure=0&sni=alb1337.zaebalsanoproxyklinus.lol#Dr-Anv%20%F0%9F%87%A6%F0%9F%87%B1%201

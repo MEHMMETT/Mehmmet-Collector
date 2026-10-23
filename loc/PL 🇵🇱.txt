@@ -1,4 +1,4 @@
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%201
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?allowInsecure=1#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%202
-vless://51a1fd52-fd88-4905-a976-35e44be28e4b@pl.flen-vpn.xyz:8443?encryption=none&security=tls&sni=pl.flen-vpn.xyz&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
-vless://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?encryption=none&security=tls&sni=pl.flen-vpn.xyz&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
+vless://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?encryption=none&security=tls&sni=pl.flen-vpn.xyz&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
+vless://51a1fd52-fd88-4905-a976-35e44be28e4b@pl.flen-vpn.xyz:8443?encryption=none&security=tls&sni=pl.flen-vpn.xyz&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
