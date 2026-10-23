@@ -1,3 +1,4 @@
 ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU@195.58.49.34:18443#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect&headers=%7B%0A%20%20%22Host%22%3A%20%22wstg.datasynctrue.online%22%0A%7D#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@195.133.5.194:18443#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%203
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect&headers=%7B%0A%20%20%22Host%22%3A%20%22wstg.datasynctrue.online%22%0A%7D#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%204
