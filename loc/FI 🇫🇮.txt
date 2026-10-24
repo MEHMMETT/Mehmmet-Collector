@@ -1,1 +1,2 @@
 trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
+vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?alpn=http%2F1.1&encryption=none&host=hw3.divarkhaghazi.com.&path=%2F&security=tls&sni=hw3.divarkhaghazi.com.&type=ws#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
