@@ -1,5 +1,3 @@
 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?encryption=none&path=%2Fvless&security=none&type=ws#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%201
-vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@pl4-node.rumedia-cdn.com:2096?path=%2Fcdn%2Fv3%2Flive&security=tls&encryption=none&insecure=0&host=stb6390.rumedia-cdn.com&type=ws&allowInsecure=0&sni=stb6390.rumedia-cdn.com#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%202
-vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@se13-node.rumedia-cdn.com:2096?path=%2Fcdn%2Fv3%2Flive&security=tls&encryption=none&insecure=0&host=st5ff8a.rumedia-cdn.com&type=ws&allowInsecure=0&sni=st5ff8a.rumedia-cdn.com#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%203
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?sni=promo.betust.net#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%204
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443/#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%205
+hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?sni=promo.betust.net#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%202
+hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443/#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%203
