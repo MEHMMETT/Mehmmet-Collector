@@ -1,2 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@location8.cpanel-host10.ir:56134#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%201
-vless://fb39cc1d-566d-57ec-864a-eadaa0d59edb@5.188.190.158:23958?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%202
+vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%202
