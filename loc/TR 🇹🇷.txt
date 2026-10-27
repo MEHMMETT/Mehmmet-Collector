@@ -1,2 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@location8.cpanel-host10.ir:56134#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%201
-vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@87.236.166.166:56137#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@location15.cpanel-host16.ir:56137#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@location8.cpanel-host10.ir:56134#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%203
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@tr.pad-sservice.lat:8443?path=%2FTR1&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=tr.pad-service.com&fp=firefox&type=ws&allowInsecure=0&sni=tr.pad-sservice.lat#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%204
+vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%205
