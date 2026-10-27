@@ -1,1 +1,2 @@
 vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?encryption=none&fp=&mode=auto&path=%2F&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%AA%201
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@13.143.239.84:4443/?sni=nl1.obxodvpn.us#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%AA%202
