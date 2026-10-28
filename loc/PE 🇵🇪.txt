@@ -1,1 +1,0 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.218.15.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime47.workers.dev&path=%2F&security=none&type=ws#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%AA%201
