@@ -1,3 +1,1 @@
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?encryption=none&host=95.128.71.79&path=%2Fvless&security=none&type=ws#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BE%201
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@bl2.nexfile.net:4444/#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BE%202
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@bl3.nexfile.net:4444/#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BE%203
