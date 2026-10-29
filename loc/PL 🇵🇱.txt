@@ -1,4 +1,4 @@
 vmess://eyJhZGQiOiI1NC4zNy4xMzEuMTI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJpZCI6IjZkZWVmOWFkLTEzNTctNDQzZC1mOTVjLWNiMTg5NTJjMjBiMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IkRyLUFudiBcdWQ4M2NcdWRkZjVcdWQ4M2NcdWRkZjEgMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@pl3.nexfile.net:4444/?sni=pl3.nexfile.net#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%202
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.189.71:4444/?sni=pl3.nexfile.net#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@pl2.nexfile.net:4444/#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@pl2.nexfile.net:4444/#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%202
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@pl3.nexfile.net:4444/?sni=pl3.nexfile.net#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.189.71:4444/?sni=pl3.nexfile.net#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
