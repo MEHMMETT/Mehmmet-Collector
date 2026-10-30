@@ -1,2 +1,2 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%201
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?allowInsecure=1&sni=www.yourultimateprofessionalcareerhub.com#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%201
 hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=140.238.213.114#Dr-Anv%20%F0%9F%87%A8%F0%9F%87%AD%202

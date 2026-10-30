@@ -1,3 +1,4 @@
-vless://9ea8b000-58ce-4f71-b108-989dd4f248f1@13.143.180.50:443?mode=auto&path=%2Fubuntu&security=reality&encryption=none&pbk=fwQbdsfHEnx2pzokCnyN698SUq5fkQKngnsyPGjmeDg&fp=firefox&type=xhttp&sni=mirror.timeweb.ru#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%201
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?sni=promo.betust.net#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%202
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443/#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%203
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%201
+vless://9ea8b000-58ce-4f71-b108-989dd4f248f1@13.143.180.50:443?mode=auto&path=%2Fubuntu&security=reality&encryption=none&pbk=fwQbdsfHEnx2pzokCnyN698SUq5fkQKngnsyPGjmeDg&fp=firefox&type=xhttp&sni=mirror.timeweb.ru#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%202
+hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?sni=promo.betust.net#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%203
+hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443/#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%204

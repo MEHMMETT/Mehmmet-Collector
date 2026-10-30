@@ -1,1 +1,2 @@
 trojan://humanity@212.183.88.136:443?path=%2F%252Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Dr-Anv%20%F0%9F%87%A6%F0%9F%87%B9%201
+vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?security=reality&encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=av.neuroniko.com&sid=10a59b0a94367ac2#Dr-Anv%20%F0%9F%87%A6%F0%9F%87%B9%202
