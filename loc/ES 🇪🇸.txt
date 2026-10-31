@@ -1,7 +1,7 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%201
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%202
-trojan://humanity@109.234.211.232:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%203
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%204
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%205
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%201
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%202
+trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%203
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%204
+trojan://humanity@109.234.211.232:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%205
 trojan://humanity@212.227.90.142:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%206
 vless://897d47f8-4dd5-42a1-bcd0-bef19caff55a@193.238.154.78:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4eE3K8Eac-ELze-LwRyJolqmhPqgCVqwQM1DKu6i0Ts&security=reality&sid=e93d46ee3735069e&sni=gateway.icloud.com&type=tcp#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%B8%207
