@@ -1,2 +1,1 @@
-vless://f44f5cc3-df22-4183-a61b-c653485dd7f9@156.154.245.84:443?path=%2Fjx-o4e0xzvx0107se&security=tls&encryption=none&insecure=0&host=jyfrj1cims.dev.onappjet.com&type=ws&allowInsecure=0#Dr-Anv%20%F0%9F%87%A6%F0%9F%87%AA%201
-vless://f44f5cc3-df22-4183-a61b-c653485dd7f9@45.86.228.104:443?path=%2Fjx-o4e0xzvx0107se&security=tls&encryption=none&insecure=0&host=jyfrj1cims.dev.onappjet.com&type=ws&allowInsecure=0#Dr-Anv%20%F0%9F%87%A6%F0%9F%87%AA%202
+vless://3dc76b67-6d26-4446-b542-0254b073bd8a@46.8.100.28:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=tnEAM-61f1idRp0_FNf01mVdV1Ks8l1j55KIHJEcY28&security=reality&sid=48aca154137f7419&sni=swdist.apple.com&type=tcp#Dr-Anv%20%F0%9F%87%A6%F0%9F%87%AA%201
