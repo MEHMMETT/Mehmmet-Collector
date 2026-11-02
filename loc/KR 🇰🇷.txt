@@ -1,0 +1,2 @@
+hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&sni=www.bing.com#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%201
+hysteria2://maintell@152.70.237.123:2053/?insecure=1&sni=bing.com#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%202
