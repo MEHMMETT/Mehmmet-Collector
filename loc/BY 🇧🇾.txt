@@ -1,1 +1,4 @@
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?encryption=none&host=95.128.71.79&path=%2Fvless&security=none&type=ws#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BE%201
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?encryption=none&mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&sni=bl1.nexfile.net&type=xhttp#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BE%202
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4443?encryption=none&fp=firefox&mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&sni=bl1.nexfile.net&type=xhttp#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BE%203
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444/?insecure=1&sni=bl1.nexfile.net#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BE%204
