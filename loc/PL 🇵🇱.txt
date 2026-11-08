@@ -3,12 +3,8 @@ vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@13.143.167.154:443?security=reality
 vless://7d43670b-6b08-45b9-8a24-8f3971abc132@222.167.245.16:443?security=reality&encryption=none&pbk=j4Uc6ljg9by_VKYywo5h2N-eh3kpUbFL5Bsp8-AX4Qk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=poland.biznes.lol#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%203
 vless://7d43670b-6b08-45b9-8a24-8f3971abc132@poland.biznes.lol:443?security=reality&encryption=none&pbk=j4Uc6ljg9by_VKYywo5h2N-eh3kpUbFL5Bsp8-AX4Qk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=poland.biznes.lol#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%204
 vmess://eyJhZGQiOiI1NC4zNy4xMzEuMTI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLCJpZCI6IjA1OWZkYTNlLTVjYTktNGZiZC1kZDg5LTAxY2M2ZDRiYjVkZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IkRyLUFudiBcdWQ4M2NcdWRkZjVcdWQ4M2NcdWRkZjEgNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?sni=pl3.nexfile.net&insecure=0&upmbps=0&downmbps=0#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%206
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.143:4444/?sni=pl3.nexfile.net#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%207
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.105:4444/?insecure=1&sni=pl2.nexfile.net#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%208
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444/?sni=pl2.nexfile.net#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%209
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444/?insecure=1&sni=pl3.nexfile.net#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2010
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.80:4444/?insecure=1&sni=pl3.nexfile.net#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2011
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444/?sni=pl3.nexfile.net#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2012
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444/?sni=pl2.nexfile.net#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2013
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444?sni=pl2.nexfile.net&insecure=0&upmbps=0&downmbps=0#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2014
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.80:4444/?insecure=1&sni=pl3.nexfile.net#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%206
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444/?insecure=1&sni=pl3.nexfile.net#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%207
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.142:4444?sni=pl3.nexfile.net&insecure=0&upmbps=0&downmbps=0#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%208
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.143:4444/?sni=pl3.nexfile.net#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%209
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444/?sni=pl3.nexfile.net#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%2010
