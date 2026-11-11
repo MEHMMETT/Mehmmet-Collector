@@ -1,4 +1,4 @@
-trojan://5t6i121em5lkmsmk@158.247.255.150:48851?security=tls&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=kr002.zestapp778.com#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%201
-vmess://eyJhZGQiOiIyMTcuMTQyLjEzOC42MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhYzFiOTMzZC1hZmZmLTQ0ODctOTNlZi1mNTcxMzBhNTVkZmYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiRHItQW52IFx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJ2Y24iOiIifQ
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%201
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@64.110.79.66:8443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%202
 hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&sni=www.bing.com#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%203
 hysteria2://maintell@152.70.237.123:2053/?insecure=1&sni=bing.com#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%204

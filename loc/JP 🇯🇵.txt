@@ -1,1 +1,2 @@
-hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443/?insecure=1&sni=bing.com#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%201
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2503.ccgfw.online:443?sni=u695098u093da7d1s2502.xxti.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%201
+hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443/?insecure=1&sni=bing.com#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%202
