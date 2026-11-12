@@ -1,1 +1,0 @@
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@94.183.164.142:443?encryption=none&fp=firefox&path=%2Fstatic%2Fjs%2Fvendor.cc1645b6.js&security=tls&sni=nl4.gacvpn.site&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%201
