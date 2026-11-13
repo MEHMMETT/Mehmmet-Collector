@@ -1,3 +1,2 @@
-ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0@213.176.92.148:40647#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.182.11:8443?security=reality&encryption=none&pbk=PTIRbxzUvuwon8uDA2LjTtIJc9nItRvnGqQxS4K9pgg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=2veos3wvwtx8.cdn.cachefleet.com#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
-vless://679d0fcc-4c72-4073-8f1d-311b69ef72b5@2.31.100.78:13060?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%203
+vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.182.11:8443?security=reality&encryption=none&pbk=PTIRbxzUvuwon8uDA2LjTtIJc9nItRvnGqQxS4K9pgg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=2veos3wvwtx8.cdn.cachefleet.com#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%201
+vless://679d0fcc-4c72-4073-8f1d-311b69ef72b5@2.31.100.78:13060?encryption=none&security=none&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%AE%202
