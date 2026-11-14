@@ -1,0 +1,1 @@
+trojan://5t6i121em5lkmsmk@149.104.87.125:15083?security=tls&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=mx001.zestapp778.com#Dr-Anv%20%F0%9F%87%B2%F0%9F%87%BD%201
