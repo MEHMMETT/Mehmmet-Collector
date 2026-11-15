@@ -1,3 +1,2 @@
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&type=tcp&security=none#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%AA%201
-hy2://b36a14f8-fc3f-4142-968f-48031cf5f330@tr3.h1cloud.net:25515/?hop_interval=10&sni=2c74e5t.tr3.h1clayd.click#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%AA%202
-hy2://b36a14f8-fc3f-4142-968f-48031cf5f330@hy2-eee-1.aloranode.top:443/?hop_interval=10&sni=hy2-eee-1.aloranode.top#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%AA%203
+hy2://b36a14f8-fc3f-4142-968f-48031cf5f330@hy2-eee-1.aloranode.top:443/?hop_interval=10&sni=hy2-eee-1.aloranode.top#Dr-Anv%20%F0%9F%87%AA%F0%9F%87%AA%202

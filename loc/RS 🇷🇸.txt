@@ -1,2 +1,2 @@
-hy2://307ee0e53ea04dfd86a7f2f9fcd53844@s5.libertyrunet.store:443/?hop_interval=10&sni=s5.libertyrunet.store#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%B8%201
-hysteria2://307ee0e53ea04dfd86a7f2f9fcd53844@s5.libertyrunet.store:443/?sni=s5.libertyrunet.store#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%B8%202
+hysteria2://307ee0e53ea04dfd86a7f2f9fcd53844@s5.libertyrunet.store:443/?sni=s5.libertyrunet.store#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%B8%201
+hy2://307ee0e53ea04dfd86a7f2f9fcd53844@s5.libertyrunet.store:443/?hop_interval=10&sni=s5.libertyrunet.store#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%B8%202
