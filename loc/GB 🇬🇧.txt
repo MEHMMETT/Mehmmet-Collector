@@ -1,6 +1,4 @@
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NHZwNzZhK2QzdXUwWWZSUUtrRm96b0hqYm5TWVhIazFJTHc3ckVQcFZ4MD0@134.65.62.99:61312#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%201
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.175.238.57:443#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4bnJwdDJpbDA0cHRjaTJq@54.37.240.40:8080#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%203
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.175.238.57:443#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4bnJwdDJpbDA0cHRjaTJq@54.37.240.40:8080#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%202
+vless://fda89998-7e9a-4494-857a-cd0d00661b58@uk1.connectsuite.org:443?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=uk1.connectsuite.org#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%203
 vless://fda89998-7e9a-4494-857a-cd0d00661b58@51.38.71.147:443?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=uk1.connectsuite.org#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%204
-vless://fda89998-7e9a-4494-857a-cd0d00661b58@uk1.connectsuite.org:443?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=uk1.connectsuite.org#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7%205
-vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLz9lZCNUZWxlZ3JhbS0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVCIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiRHItQW52IFx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyA2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
