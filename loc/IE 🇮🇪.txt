@@ -1,1 +1,0 @@
-vless://2e69b088-6ef3-417f-8247-125cf257fafd@108.156.65.62:443?encryption=none&fp=chrome&host=d1ivx1xk58pr8u.cloudfront.net&mode=auto&path=%2Fcf&security=tls&sni=d1ivx1xk58pr8u.cloudfront.net&type=xhttp#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%AA%201
