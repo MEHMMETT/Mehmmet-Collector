@@ -1,6 +1,5 @@
 vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:14430?encryption=none&host=193.188.21.253&path=%2Fvless&security=none&type=ws#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%201
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?encryption=none&path=%2Fvless&security=none&type=ws#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%202
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?security=tls&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=app.streamru10.net#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%203
-vmess://eyJhZGQiOiI2Mi45My4xNjYuMTg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoiRHItQW52IFx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYSA0Iiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?sni=promo.betust.net#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%205
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443/#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%206
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@88.216.189.192:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=modx.wey-land.net&fp=chrome&pbk=1VhM5R3IlHPjzxEeTuik1lcUad-HI6C57MzXxppyXg4#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%202
+vmess://eyJhZGQiOiI2Mi45My4xNjYuMTg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoiRHItQW52IFx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYSAzIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?sni=promo.betust.net#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%204
+hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443/#Dr-Anv%20%F0%9F%87%B8%F0%9F%87%AA%205
