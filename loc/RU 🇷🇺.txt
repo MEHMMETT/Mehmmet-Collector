@@ -1,2 +1,3 @@
 vless://2ae0670d-0bdf-409e-9a55-4e970252d378@37.235.247.81:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=apple.com&type=tcp#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%201
 vless://27f26dee-9cf1-4cca-93f8-9ac23d311408@147.45.47.101:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=apple.com&type=tcp#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%202
+vless://4777d90d-265b-4927-a0d1-63f36ed1421c@193.160.208.240:443?mode=auto&path=%2Fassets%2Ftwru01%2F&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0#Dr-Anv%20%F0%9F%87%B7%F0%9F%87%BA%203
