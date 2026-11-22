@@ -1,2 +1,1 @@
-vless://1c942ed7-fef9-45c6-9873-91f93075185d@xhtt2.nimbaha9.ir:80?path=%2Fweqe&security=none&encryption=none&host=xhtt2.nimbaha9.ir&type=ws#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%201
-vless://b4192dfb-f458-4303-b877-29a41a6d8416@94.183.164.176:443?mode=gun&security=reality&encryption=none&pbk=_KeOS5u_irk1547CMVB3RdwQzz1SzrQZk-IV-btF7TU&type=grpc&serviceName=ebl&sni=optim.tildacdn.pub#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%202
+vless://b4192dfb-f458-4303-b877-29a41a6d8416@94.183.164.176:443?mode=gun&security=reality&encryption=none&pbk=_KeOS5u_irk1547CMVB3RdwQzz1SzrQZk-IV-btF7TU&type=grpc&serviceName=ebl&sni=optim.tildacdn.pub#Dr-Anv%20%F0%9F%87%AE%F0%9F%87%B7%201
