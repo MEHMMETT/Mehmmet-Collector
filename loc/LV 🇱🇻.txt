@@ -1,2 +1,0 @@
-vless://13908eee-ea78-4363-adab-6cca98ecfce3@lt.3apes.pro:443?security=reality&encryption=none&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lt.3apes.pro#Dr-Anv%20%F0%9F%87%B1%F0%9F%87%BB%201
-vless://13908eee-ea78-4363-adab-6cca98ecfce3@lite.3apes.pro:443?security=reality&encryption=none&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lite.3apes.pro#Dr-Anv%20%F0%9F%87%B1%F0%9F%87%BB%202
