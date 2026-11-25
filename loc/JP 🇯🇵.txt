@@ -1,5 +1,5 @@
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0303.gggrelay.org:34745?allowInsecure=1&sni=nu3rb.supertoolify.com#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%201
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@94.177.131.113:443?security=tls&encryption=none&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=kuruish.org#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%202
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@94.177.131.113:443?encryption=none&fp=chrome&security=tls&sni=kuruish.org&type=tcp#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%202
 vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?sni=djj.zjlo.top&flow=xtls-rprx-vision&fp=firefox&security=tls#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%203
 hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443/?insecure=1&sni=8.211.175.236#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%204
 hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443/?insecure=1&sni=bing.com#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%205

@@ -1,1 +1,2 @@
 vless://020f7f86-a559-4366-8d2d-c6f81d6bbe5f@194.135.34.118:8443?path=%2Fapi%2Fv4%2Fmedia%2Fsession&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=web.hosttcp.fun#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%201
+vless://56665684-5ac0-4ba9-9d49-8b258fb57974@turkey-ip1.mmdaqaorg.xyz:50738?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=turkey-ip1.mmdaqaorg.xyz#Dr-Anv%20%F0%9F%87%B9%F0%9F%87%B7%202
