@@ -1,8 +1,1 @@
-trojan://jyneij42qcfg3x9f@179.254.191.2:39105?security=none#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BE%201
-vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?encryption=none&host=178.172.227.124&path=%2Fvless&security=none&type=ws#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BE%202
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4443?encryption=none&fp=chrome&mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&sni=bl1.nexfile.net&type=xhttp#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BE%203
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@leviko-pl9958.shopingggg.ir:4443?encryption=none&fp=chrome&mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&sni=bl1.nexfile.net&type=xhttp#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BE%204
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?encryption=none&type=xhttp&security=tls&sni=bl1.nexfile.net&fp=chrome&path=/api/v1/sync/&mode=auto#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BE%205
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@leviko-pl1084.shopingggg.ir:4443?encryption=none&fp=chrome&mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&sni=bl1.nexfile.net&type=xhttp#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BE%206
-vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?path=%2Fvless&security=none&encryption=none&host=178.172.227.228&type=ws#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BE%207
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4444/?sni=bl1.nexfile.net#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BE%208
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?encryption=none&host=178.172.227.124&path=%2Fvless&security=none&type=ws#Dr-Anv%20%F0%9F%87%A7%F0%9F%87%BE%201

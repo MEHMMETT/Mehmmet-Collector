@@ -1,2 +1,1 @@
-vless://d7121b33-e335-4921-bb00-4c0b157e7fc1@94.183.167.172:443?encryption=none&fp=chrome&security=tls&sni=s8k4.scan-cdn.com&type=tcp#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%201
-hysteria2://04920673-035c-410d-94e4-5b1469d3fb6f@91.211.27.231:42848/?sni=171.22.183.158#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%202
+hysteria2://04920673-035c-410d-94e4-5b1469d3fb6f@91.211.27.231:42848/?sni=171.22.183.158#Dr-Anv%20%F0%9F%87%B5%F0%9F%87%B1%201
