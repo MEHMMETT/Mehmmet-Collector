@@ -1,3 +1,4 @@
 vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=djj.zjlo.top#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%201
-hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443/?insecure=1&sni=8.211.175.236#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%202
-hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443/?insecure=1&sni=bing.com#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%203
+vless://8840fac2-5361-4cb6-b887-cd1b95092394@50.7.159.242:443?sni=jp.reddotcorp.org&fp=firefox&security=tls#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%202
+hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443/?insecure=1&sni=8.211.175.236#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%203
+hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443/?insecure=1&sni=bing.com#Dr-Anv%20%F0%9F%87%AF%F0%9F%87%B5%204
