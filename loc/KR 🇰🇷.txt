@@ -1,1 +1,2 @@
-hysteria2://maintell@152.70.237.123:2053/?insecure=1&sni=bing.com#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%201
+vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibnVsbCIsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiJEci1BbnYgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+hysteria2://maintell@152.70.237.123:2053/?insecure=1&sni=bing.com#Dr-Anv%20%F0%9F%87%B0%F0%9F%87%B7%202

@@ -1,7 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY%3D@leviko-fr1459.shopingggg.ir:443#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U0drR2hyMnNLSFY@23.162.152.245:443#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%202
-vless://00000000-0000-0001-0000-000000000000@136.148.83.71:443?encryption=none&fp=qq&security=tls&sni=wccfu-ru-79dc.my-fade.cloud&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%203
-vless://00000000-0000-0001-0000-000000000000@136.148.83.70:443?encryption=none&fp=qq&security=tls&sni=aszbk-ru-78dc.my-fade.cloud&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%204
+vless://00000000-0000-0001-0000-000000000000@136.148.83.70:443?encryption=none&fp=qq&security=tls&sni=aszbk-ru-78dc.my-fade.cloud&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%203
+vless://00000000-0000-0001-0000-000000000000@136.148.83.71:443?encryption=none&fp=qq&security=tls&sni=wccfu-ru-79dc.my-fade.cloud&type=tcp#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%204
 vless://11512726-b692-406f-ab49-7b28f44a8294@143.246.211.240:443?mode=auto&path=%2Fae1b809ceb77&security=reality&encryption=none&pbk=_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg&fp=firefox&spx=%2F&type=xhttp&sni=fr.gorobsub.com&sid=3242cfd7#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%205
 vless://1697852e-cd5c-472d-b377-0def0f301d98@88.151.197.87:2025?path=%2F&security=none&encryption=none&type=ws#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%206
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3F&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7%207
